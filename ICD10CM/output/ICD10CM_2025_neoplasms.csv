@@ -1,0 +1,1940 @@
+RowID,Level,Term,SeeAlso,NonEssModif,MalignantPrimary,MalignantSecondary,CaInSitu,Benign,UncertainBehavior,UnspecifiedBehavior
+1,0,"Neoplasm, neoplastic",,,C80.1,C79.9,D09.9,D36.9,D48.9,D49.9
+2,1,"abdomen, abdominal",,,C76.2,C79.8-,D09.8,D36.7,D48.7,D49.89
+3,2,cavity,,,C76.2,C79.8-,D09.8,D36.7,D48.7,D49.89
+4,2,organ,,,C76.2,C79.8-,D09.8,D36.7,D48.7,D49.89
+5,2,viscera,,,C76.2,C79.8-,D09.8,D36.7,D48.7,D49.89
+6,2,wall,,,C44.509,C79.2-,D04.5,D23.5,D48.5,D49.2
+7,3,connective tissue,,,C49.4,C79.8-,-,D21.4,D48.1,D49.2
+8,3,skin,,,C44.509,,,,,
+9,4,basal cell carcinoma,,,C44.519,-,-,-,-,-
+10,4,specified type NEC,,,C44.599,-,-,-,-,-
+11,4,squamous cell carcinoma,,,C44.529,-,-,-,-,-
+12,1,abdominopelvic,,,C76.8,C79.8-,-,D36.7,D48.7,D49.89
+13,1,accessory sinus,"Neoplasm, sinus",,,,,,,
+14,1,acoustic nerve,,,C72.4-,C79.49,-,D33.3,D43.3,D49.7
+15,1,adenoid,,(pharynx) (tissue),C11.1,C79.89,D00.08,D10.6,D37.05,D49.0
+16,1,adipose tissue,,,C49.4,C79.89,-,D21.9,D48.1,D49.2
+17,1,adnexa,,(uterine),C57.4,C79.89,D07.39,D28.7,D39.8,D49.59
+18,1,adrenal,,,C74.9-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+19,2,capsule,,,C74.9-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+20,2,cortex,,,C74.0-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+21,2,gland,,,C74.9-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+22,2,medulla,,,C74.1-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+23,1,ala nasi,,(external),C44.301,C79.2,D04.39,D23.39,D48.5,D49.2
+24,1,alimentary canal or tract NEC,,,C26.9,C78.80,D01.9,D13.99,D37.9,D49.0
+25,1,alveolar,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+26,2,mucosa,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+27,3,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+28,3,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+29,2,ridge or process,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+30,3,carcinoma,,,C03.9,C79.8-,-,-,-,-
+31,4,lower,,,C03.1,C79.8-,-,-,-,-
+32,4,upper,,,C03.0,C79.8-,-,-,-,-
+33,3,lower,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+34,3,mucosa,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+35,4,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+36,4,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+37,3,upper,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+38,2,sulcus,,,C06.1,C79.89,D00.02,D10.39,D37.09,D49.0
+39,1,alveolus,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+40,2,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+41,2,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+42,1,ampulla of Vater,,,C24.1,C78.89,D01.5,D13.5,D37.6,D49.0
+43,1,ankle NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+44,1,"anorectum, anorectal",,(junction),C21.8,C78.5,D01.3,D12.9,D37.8,D49.0
+45,1,antecubital fossa or space,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+46,1,antrum,,(Highmore) (maxillary),C31.0,C78.39,D02.3,D14.0,D38.5,D49.1
+47,2,pyloric,,,C16.3,C78.89,D00.2,D13.1,D37.1,D49.0
+48,2,tympanicum,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+49,1,"anus, anal",,,C21.0,C78.5,D01.3,D12.9,D37.8,D49.0
+50,2,canal,,,C21.1,C78.5,D01.3,D12.9,D37.8,D49.0
+51,2,cloacogenic zone,,,C21.2,C78.5,D01.3,D12.9,D37.8,D49.0
+52,2,margin,,,C44.500,C79.2,D04.5,D23.5,D48.5,D49.2
+53,2,overlapping lesion with rectosigmoid junction or rectum,,,C21.8,-,-,-,-,-
+54,2,skin,,,C44.500,C79.2,D04.5,D23.5,D48.5,D49.2
+55,3,basal cell carcinoma,,,C44.510,-,-,-,-,-
+56,3,specified type NEC,,,C44.590,-,-,-,-,-
+57,3,squamous cell carcinoma,,,C44.520,-,-,-,-,-
+58,2,sphincter,,,C21.1,C78.5,D01.3,D12.9,D37.8,D49.0
+59,1,aorta,,(thoracic),C49.3,C79.89,-,D21.3,D48.1,D49.2
+60,2,abdominal,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+61,1,aortic body,,,C75.5,C79.89,-,D35.6,D44.7,D49.7
+62,1,aponeurosis,,,C49.9,C79.89,-,D21.9,D48.1,D49.2
+63,2,palmar,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+64,2,plantar,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+65,1,appendix,,,C18.1,C78.5,D01.0,D12.1,D37.3,D49.0
+66,1,arachnoid,,,C70.9,C79.49,-,D32.9,D42.9,D49.7
+67,2,cerebral,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+68,2,spinal,,,C70.1,C79.49,-,D32.1,D42.1,D49.7
+69,1,areola,,,C50.0-,C79.81,D05.-,D24.-,D48.6-,D49.3
+70,1,arm NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+71,1,artery,"Neoplasm, connective tissue",,,,,,,
+72,1,aryepiglottic fold,,,C13.1,C79.89,D00.08,D10.7,D37.05,D49.0
+73,2,hypopharyngeal aspect,,,C13.1,C79.89,D00.08,D10.7,D37.05,D49.0
+74,2,laryngeal aspect,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+75,2,marginal zone,,,C13.1,C79.89,D00.08,D10.7,D37.05,D49.0
+76,1,arytenoid,,(cartilage),C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+77,2,fold,"Neoplasm, aryepiglottic",,,,,,,
+78,1,associated with transplanted organ,,,C80.2,-,-,-,-,-
+79,1,atlas,,,C41.2,C79.51,-,D16.6,D48.0,D49.2
+80,1,"atrium, cardiac",,,C38.0,C79.89,-,D15.1,D48.7,D49.89
+81,1,auditory,,,,,,,,
+82,2,canal,,(external) (skin),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+83,3,internal,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+84,2,nerve,,,C72.4-,C79.49,-,D33.3,D43.3,D49.7
+85,2,tube,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+86,3,opening,,,C11.2,C79.89,D00.08,D10.6,D37.05,D49.0
+87,1,"auricle, ear",,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+88,1,auricular canal,,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+89,2,internal,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.2
+90,1,autonomic nerve or nervous system NEC,,"(see Neoplasm, nerve, peripheral)",,,,,,
+91,1,"axilla, axillary",,,C76.1,C79.89,D09.8,D36.7,D48.7,D49.89
+92,2,fold,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+93,1,back NEC,,,C76.8,C79.89,D04.5,D36.7,D48.7,D49.89
+94,1,Bartholin's gland,,,C51.0,C79.82,D07.1,D28.0,D39.8,D49.59
+95,1,basal ganglia,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+96,1,basis pedunculi,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+97,1,bile or biliary,,(tract),C24.9,C78.89,D01.5,D13.5,D37.6,D49.0
+98,2,canaliculi,,(biliferi) (intrahepatic),C22.1,C78.7,D01.5,D13.4,D37.6,D49.0
+99,2,"canals, interlobular",,,C22.1,C78.89,D01.5,D13.4,D37.6,D49.0
+100,2,duct or passage,,(common) (cystic) (extrahepatic),C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+101,3,interlobular,,,C22.1,C78.89,D01.5,D13.4,D37.6,D49.0
+102,3,intrahepatic,,,C22.1,C78.7,D01.5,D13.4,D37.6,D49.0
+103,4,and extrahepatic,,,C24.8,C78.89,D01.5,D13.5,D37.6,D49.0
+104,1,bladder,,(urinary),C67.9,C79.11,D09.0,D30.3,D41.4,D49.4
+105,2,dome,,,C67.1,C79.11,D09.0,D30.3,D41.4,D49.4
+106,2,neck,,,C67.5,C79.11,D09.0,D30.3,D41.4,D49.4
+107,2,orifice,,,C67.9,C79.11,D09.0,D30.3,D41.4,D49.4
+108,3,ureteric,,,C67.6,C79.11,D09.0,D30.3,D41.4,D49.4
+109,3,urethral,,,C67.5,C79.11,D09.0,D30.3,D41.4,D49.4
+110,2,overlapping lesion,,,C67.8,-,-,-,-,-
+111,2,sphincter,,,C67.8,C79.11,D09.0,D30.3,D41.4,D49.4
+112,2,trigone,,,C67.0,C79.11,D09.0,D30.3,D41.4,D49.4
+113,2,urachus,,,C67.7,C79.11,D09.0,D30.3,D41.4,D49.4
+114,2,wall,,,C67.9,C79.11,D09.0,D30.3,D41.4,D49.4
+115,3,anterior,,,C67.3,C79.11,D09.0,D30.3,D41.4,D49.4
+116,3,lateral,,,C67.2,C79.11,D09.0,D30.3,D41.4,D49.4
+117,3,posterior,,,C67.4,C79.11,D09.0,D30.3,D41.4,D49.4
+118,1,blood vessel,"Neoplasm, connective tissue",,,,,,,
+119,1,bone,,(periosteum),C41.9,C79.51,-,D16.9-,D48.0,D49.2
+120,2,acetabulum,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+121,2,ankle,,,C40.3-,C79.51,-,D16.3-,-,-
+122,2,arm NEC,,,C40.0-,C79.51,-,D16.0-,-,-
+123,2,astragalus,,,C40.3-,C79.51,-,D16.3-,-,-
+124,2,atlas,,,C41.2,C79.51,-,D16.6-,D48.0,D49.2
+125,2,axis,,,C41.2,C79.51,-,D16.6-,D48.0,D49.2
+126,2,back NEC,,,C41.2,C79.51,-,D16.6-,D48.0,D49.2
+127,2,calcaneus,,,C40.3-,C79.51,-,D16.3-,-,-
+128,2,calvarium,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+129,2,carpus,,(any),C40.1-,C79.51,-,D16.1-,-,-
+130,2,cartilage NEC,,,C41.9,C79.51,-,D16.9-,D48.0,D49.2
+131,2,clavicle,,,C41.3,C79.51,-,D16.7-,D48.0,D49.2
+132,2,clivus,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+133,2,coccygeal vertebra,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+134,2,coccyx,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+135,2,costal cartilage,,,C41.3,C79.51,-,D16.7-,D48.0,D49.2
+136,2,costovertebral joint,,,C41.3,C79.51,-,D16.7-,D48.0,D49.2
+137,2,cranial,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+138,2,cuboid,,,C40.3-,C79.51,-,D16.3-,-,-
+139,2,cuneiform,,,C41.9,C79.51,-,D16.9-,D48.0,D49.2
+140,2,elbow,,,C40.0-,C79.51,-,D16.0-,-,-
+141,2,ethmoid,,(labyrinth),C41.0,C79.51,-,D16.4-,D48.0,D49.2
+142,2,face,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+143,2,femur,,(any part),C40.2-,C79.51,-,D16.2-,-,-
+144,2,fibula,,(any part),C40.2-,C79.51,-,D16.2-,-,-
+145,2,finger,,(any),C40.1-,C79.51,-,D16.1-,-,-
+146,2,foot,,,C40.3-,C79.51,-,D16.3-,-,-
+147,2,forearm,,,C40.0-,C79.51,-,D16.0-,-,-
+148,2,frontal,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+149,2,hand,,,C40.1-,C79.51,-,D16.1-,-,-
+150,2,heel,,,C40.3-,C79.51,-,D16.3-,-,-
+151,2,hip,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+152,2,humerus,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+153,2,hyoid,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+154,2,ilium,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+155,2,innominate,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+156,2,intervertebral cartilage or disc,,,C41.2,C79.51,-,D16.6-,D48.0,D49.2
+157,2,ischium,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+158,2,jaw,,(lower),C41.1,C79.51,-,D16.5-,D48.0,D49.2
+159,2,knee,,,C40.2-,C79.51,-,D16.2-,-,-
+160,2,leg NEC,,,C40.2-,C79.51,-,D16.2-,-,-
+161,2,limb NEC,,,C40.9-,C79.51,-,D16.9-,-,-
+162,3,lower,,(long bones),C40.2-,C79.51,-,D16.2-,-,-
+163,4,short bones,,,C40.3-,C79.51,-,D16.3-,-,-
+164,3,upper,,(long bones),C40.0-,C79.51,-,D16.0-,-,-
+165,4,short bones,,,C40.1-,C79.51,-,D16.1-,-,-
+166,2,malar,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+167,2,mandible,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+168,2,marrow NEC,,(any bone),C96.9,C79.52,-,-,D47.9,D49.89
+169,2,mastoid,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+170,2,"maxilla, maxillary",,(superior),C41.0,C79.51,-,D16.4-,D48.0,D49.2
+171,3,inferior,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+172,2,metacarpus,,(any),C40.1-,C79.51,-,D16.1-,-,-
+173,2,metatarsus,,(any),C40.3-,C79.51,-,D16.3-,-,-
+174,2,overlapping sites,,,C40.8-,-,-,-,-,-
+175,2,navicular,,,,,,,,
+176,3,ankle,,,C40.3-,C79.51,-,-,-,-
+177,3,hand,,,C40.1-,C79.51,-,-,-,-
+178,2,"nose, nasal",,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+179,2,occipital,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+180,2,orbit,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+181,2,parietal,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+182,2,patella,,,C40.2-,C79.51,-,-,-,-
+183,2,pelvic,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+184,2,phalanges,,,,,,,,
+185,3,foot,,,C40.3-,C79.51,-,-,-,-
+186,3,hand,,,C40.1-,C79.51,-,-,-,-
+187,2,pubic,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+188,2,radius,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+189,2,rib,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+190,2,sacral vertebra,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+191,2,sacrum,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+192,2,scaphoid,,,-,-,-,-,-,-
+193,3,of ankle,,,C40.3-,C79.51,-,-,-,-
+194,3,of hand,,,C40.1-,C79.51,-,-,-,-
+195,2,scapula,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+196,2,sella turcica,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+197,2,shoulder,,,C40.0-,C79.51,-,D16.0-,-,-
+198,2,skull,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+199,2,sphenoid,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+200,2,"spine, spinal",,(column),C41.2,C79.51,-,D16.6,D48.0,D49.2
+201,3,coccyx,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+202,3,sacrum,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+203,2,sternum,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+204,2,tarsus,,(any),C40.3-,C79.51,-,-,-,-
+205,2,temporal,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+206,2,thumb,,,C40.1-,C79.51,-,-,-,-
+207,2,tibia,,(any part),C40.2-,C79.51,-,-,-,-
+208,2,toe,,(any),C40.3-,C79.51,-,-,-,-
+209,2,trapezium,,,C40.1-,C79.51,-,-,-,-
+210,2,trapezoid,,,C40.1-,C79.51,-,-,-,-
+211,2,turbinate,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+212,2,ulna,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+213,2,unciform,,,C40.1-,C79.51,-,-,-,-
+214,2,vertebra,,(column),C41.2,C79.51,-,D16.6,D48.0,D49.2
+215,3,coccyx,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+216,3,sacrum,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+217,2,vomer,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+218,2,wrist,,,C40.1-,C79.51,-,-,-,-
+219,2,xiphoid process,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+220,2,zygomatic,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+221,1,book-leaf,,(mouth),C06.89,C79.89,D00.00,D10.39,D37.09,D49.0
+222,1,bowel,"Neoplasm, intestine",,,,,,,
+223,1,brachial plexus,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+224,1,brain NEC,,,C71.9,C79.31,-,D33.2,D43.2,D49.6
+225,2,basal ganglia,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+226,2,cerebellopontine angle,,,C71.6,C79.31,-,D33.1,D43.1,D49.6
+227,2,cerebellum NOS,,,C71.6,C79.31,-,D33.1,D43.1,D49.6
+228,2,cerebrum,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+229,2,choroid plexus,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+230,2,corpus callosum,,,C71.8,C79.31,-,D33.2,D43.2,D49.6
+231,2,corpus striatum,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+232,2,cortex,,(cerebral),C71.0,C79.31,-,D33.0,D43.0,D49.6
+233,2,frontal lobe,,,C71.1,C79.31,-,D33.0,D43.0,D49.6
+234,2,globus pallidus,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+235,2,hippocampus,,,C71.2,C79.31,-,D33.0,D43.0,D49.6
+236,2,hypothalamus,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+237,2,internal capsule,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+238,2,medulla oblongata,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+239,2,meninges,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+240,2,midbrain,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+241,2,occipital lobe,,,C71.4,C79.31,-,D33.0,D43.0,D49.6
+242,2,overlapping lesion,,,C71.8,C79.31,-,-,-,-
+243,2,parietal lobe,,,C71.3,C79.31,-,D33.0,D43.0,D49.6
+244,2,peduncle,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+245,2,pons,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+246,2,stem,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+247,2,tapetum,,,C71.8,C79.31,-,D33.2,D43.2,D49.6
+248,2,temporal lobe,,,C71.2,C79.31,-,D33.0,D43.0,D49.6
+249,2,thalamus,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+250,2,uncus,,,C71.2,C79.31,-,D33.0,D43.0,D49.6
+251,2,ventricle,,(floor),C71.5,C79.31,-,D33.0,D43.0,D49.6
+252,3,fourth,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+253,1,branchial,,(cleft) (cyst) (vestiges),C10.4,C79.89,D00.08,D10.5,D37.05,D49.0
+254,1,breast,,(connective tissue) (glandular tissue) (soft parts),C50.9-,C79.81,D05.-,D24.-,D48.6-,D49.3
+255,2,areola,,,C50.0-,C79.81,D05.-,D24.-,D48.6-,D49.3
+256,2,axillary tail,,,C50.6-,C79.81,D05.-,D24.-,D48.6-,D49.3
+257,2,central portion,,,C50.1-,C79.81,D05.-,D24.-,D48.6-,D49.3
+258,2,inner,,,C50.8-,C79.81,D05.-,D24.-,D48.6-,D49.3
+259,2,lower,,,C50.8-,C79.81,D05.-,D24.-,D48.6-,D49.3
+260,2,lower-inner quadrant,,,C50.3-,C79.81,D05.-,D24.-,D48.6-,D49.3
+261,2,lower-outer quadrant,,,C50.5-,C79.81,D05.-,D24.-,D48.6-,D49.3
+262,2,mastectomy site,,(skin),C44.501,C79.2,-,-,-,-
+263,3,specified as breast tissue,,,C50.8-,C79.81,-,-,-,-
+264,2,midline,,,C50.8-,C79.81,D05.-,D24.-,D48.6-,D49.3
+265,2,nipple,,,C50.0-,C79.81,D05.-,D24.-,D48.6-,D49.3
+266,2,outer,,,C50.8-,C79.81,D05.-,D24.-,D48.6-,D49.3
+267,2,overlapping lesion,,,C50.8-,-,-,-,-,-
+268,2,skin,,,C44.501,C79.2,D04.5,D23.5,D48.5,D49.2
+269,3,basal cell carcinoma,,,C44.511,-,-,-,-,-
+270,3,specified type NEC,,,C44.591,-,-,-,-,-
+271,3,squamous cell carcinoma,,,C44.521,-,-,-,-,-
+272,2,tail,,(axillary),C50.6-,C79.81,D05.-,D24.-,D48.6-,D49.3
+273,2,upper,,,C50.8-,C79.81,D05.-,D24.-,D48.6-,D49.3
+274,2,upper-inner quadrant,,,C50.2-,C79.81,D05.-,D24.-,D48.6-,D49.3
+275,2,upper-outer quadrant,,,C50.4-,C79.81,D05.-,D24.-,D48.6-,D49.3
+276,1,broad ligament,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+277,1,"bronchiogenic, bronchogenic",,(lung),C34.9-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+278,1,bronchiole,,,C34.9-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+279,1,bronchus,,,C34.9-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+280,2,carina,,,C34.0-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+281,2,lower lobe of lung,,,C34.3-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+282,2,main,,,C34.0-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+283,2,middle lobe of lung,,,C34.2,C78.0-,D02.21,D14.31,D38.1,D49.1
+284,2,overlapping lesion,,,C34.8-,-,-,-,-,-
+285,2,upper lobe of lung,,,C34.1-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+286,1,brow,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+287,2,basal cell carcinoma,,,C44.319,-,-,-,-,-
+288,2,specified type NEC,,,C44.399,-,-,-,-,-
+289,2,squamous cell carcinoma,,,C44.329,-,-,-,-,-
+290,1,buccal,,(cavity),C06.9,C79.89,D00.00,D10.39,D37.09,D49.0
+291,2,commissure,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+292,2,groove,,(lower) (upper),C06.1,C79.89,D00.02,D10.39,D37.09,D49.0
+293,2,mucosa,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+294,2,sulcus,,(lower) (upper),C06.1,C79.89,D00.02,D10.39,D37.09,D49.0
+295,1,bulbourethral gland,,,C68.0,C79.19,D09.19,D30.4,D41.3,D49.59
+296,1,bursa,"Neoplasm, connective tissue",,,,,,,
+297,1,buttock NEC,,,C76.3,C79.89,D04.5,D36.7,D48.7,D49.89
+298,1,calf,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+299,1,calvarium,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+300,1,"calyx, renal",,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+301,1,canal,,,,,,,,
+302,2,anal,,,C21.1,C78.5,D01.3,D12.9,D37.8,D49.0
+303,2,auditory,,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+304,2,auricular,,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+305,1,"canaliculi, biliary",,(biliferi) (intrahepatic),C22.1,C78.7,D01.5,D13.4,D37.6,D49.0
+306,1,canthus,,(eye) (inner) (outer),C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+307,2,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+308,2,sebaceous cell,,,C44.13-,-,-,-,-,-
+309,2,specified type NEC,,,C44.19-,-,-,-,-,-
+310,2,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+311,1,capillary,"Neoplasm, connective tissue",,,,,,,
+312,1,caput coli,,,C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+313,1,carcinoid,"Tumor, carcinoid",,,,,,,
+314,1,cardia,,(gastric),C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+315,1,cardiac orifice,,(stomach),C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+316,1,cardio-esophageal junction,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+317,1,cardio-esophagus,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+318,1,carina,,(bronchus),C34.0-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+319,1,carotid,,(artery),C49.0,C79.89,-,D21.0,D48.1,D49.2
+320,2,body,,,C75.4,C79.89,-,D35.5,D44.6,D49.7
+321,1,carpus,,(any bone),C40.1-,C79.51,-,D16.1-,-,-
+322,1,cartilage,,(articular) (joint),C41.9,C79.51,-,D16.9-,D48.0,D49.2
+323,2,arytenoid,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+324,2,auricular,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+325,2,bronchi,,,C34.0-,C78.39,-,D14.3-,D38.1,D49.1
+326,2,costal,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+327,2,cricoid,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+328,2,cuneiform,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+329,2,ear,,(external),C49.0,C79.89,-,D21.0,D48.1,D49.2
+330,2,ensiform,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+331,2,epiglottis,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+332,3,anterior surface,,,C10.1,C79.89,D00.08,D10.5,D37.05,D49.0
+333,2,eyelid,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+334,2,intervertebral,,,C41.2,C79.51,-,D16.6,D48.0,D49.2
+335,2,"larynx, laryngeal",,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+336,2,"nose, nasal",,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+337,2,pinna,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+338,2,rib,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+339,2,semilunar,,(knee),C40.2-,C79.51,-,D16.2-,D48.0,D49.2
+340,2,thyroid,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+341,2,trachea,,,C33,C78.39,D02.1,D14.2,D38.1,D49.1
+342,1,cauda equina,,,C72.1,C79.49,-,D33.4,D43.4,D49.7
+343,1,cavity,,,,,,,,
+344,2,buccal,,,C06.9,C79.89,D00.00,D10.30,D37.09,D49.0
+345,2,nasal,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+346,2,oral,,,C06.9,C79.89,D00.00,D10.30,D37.09,D49.0
+347,2,peritoneal,,,C48.2,C78.6,-,D20.1,D48.4,D49.0
+348,2,tympanic,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+349,1,cecum,,,C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+350,1,central nervous system,,,C72.9,C79.40,-,-,-,-
+351,1,cerebellopontine,,(angle),C71.6,C79.31,-,D33.1,D43.1,D49.6
+352,1,"cerebellum, cerebellar",,,C71.6,C79.31,-,D33.1,D43.1,D49.6
+353,1,"cerebrum, cerebra",,(cortex) (hemisphere) (white matter),C71.0,C79.31,-,D33.0,D43.0,D49.6
+354,2,meninges,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+355,2,peduncle,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+356,2,ventricle,,,C71.5,C79.31,-,D33.0,D43.0,D49.6
+357,3,fourth,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+358,1,cervical region,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+359,1,cervix,,(cervical) (uteri) (uterus),C53.9,C79.82,D06.9,D26.0,D39.0,D49.59
+360,2,canal,,,C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+361,2,endocervix,,(canal) (gland),C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+362,2,exocervix,,,C53.1,C79.82,D06.1,D26.0,D39.0,D49.59
+363,2,external os,,,C53.1,C79.82,D06.1,D26.0,D39.0,D49.59
+364,2,internal os,,,C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+365,2,nabothian gland,,,C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+366,2,overlapping lesion,,,C53.8,-,-,-,-,-
+367,2,squamocolumnar junction,,,C53.8,C79.82,D06.7,D26.0,D39.0,D49.59
+368,2,stump,,,C53.8,C79.82,D06.7,D26.0,D39.0,D49.59
+369,1,cheek,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+370,2,external,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+371,3,basal cell carcinoma,,,C44.319,-,-,-,-,-
+372,3,specified type NEC,,,C44.399,-,-,-,-,-
+373,3,squamous cell carcinoma,,,C44.329,-,-,-,-,-
+374,2,inner aspect,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+375,2,internal,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+376,2,mucosa,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+377,1,chest,,(wall),C76.1,C79.89,D09.8,D36.7,D48.7,D49.89
+378,1,chiasma opticum,,,C72.3-,C79.49,-,D33.3,D43.3,D49.7
+379,1,chin,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+380,2,basal cell carcinoma,,,C44.319,-,-,-,-,-
+381,2,specified type NEC,,,C44.399,-,-,-,-,-
+382,2,squamous cell carcinoma,,,C44.329,-,-,-,-,-
+383,1,choana,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+384,1,cholangiole,,,C22.1,C78.89,D01.5,D13.4,D37.6,D49.0
+385,1,choledochal duct,,,C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+386,1,choroid,,,C69.3-,C79.49,D09.2-,D31.3-,D48.7,D49.81
+387,2,plexus,,,C71.5,C79.31,-,D33.0,D43.0,D49.6
+388,1,ciliary body,,,C69.4-,C79.49,D09.2-,D31.4-,D48.7,D49.89
+389,1,clavicle,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+390,1,clitoris,,,C51.2,C79.82,D07.1,D28.0,D39.8,D49.59
+391,1,clivus,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+392,1,cloacogenic zone,,,C21.2,C78.5,D01.3,D12.9,D37.8,D49.0
+393,1,coccygeal,,,,,,,,
+394,2,body or glomus,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+395,2,vertebra,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+396,1,coccyx,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+397,1,colon,,,C18.9,C78.5,-,-,-,-
+398,2,with rectum,,,C19,C78.5,D01.1,D12.7,D37.5,D49.0
+399,1,"column, spinal","Neoplasm, spine",,,,,,,
+400,1,columnella,,,C44.390,C79.2,D04.39,D23.39,D48.5,D49.2
+401,1,commissure,,,,,,,,
+402,2,"labial, lip",,,C00.6,C79.89,D00.01,D10.39,D37.01,D49.0
+403,2,laryngeal,,,C32.0,C78.39,D02.0,D14.1,D38.0,D49.1
+404,1,common,,(bile),C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+405,1,concha,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+406,2,nose,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+407,1,conjunctiva,,,C69.0-,C79.49,D09.2-,D31.0-,D48.7,D49.89
+408,1,connective tissue NEC,,,C49.9,C79.89,-,D21.9,D48.1,D49.2
+409,2,Note: For neoplasms of connective tissue,,"(blood vessel, bursa, fascia, ligament, muscle, peripheral nerves, sympathetic and parasympathetic nerves and ganglia, synovia, tendon, etc.) or of morphological types that indicate connective tissue, code according to the list under ""Neoplasm, connective tissue"". For sites that do not appear in this list, code to neoplasm of that site; e.g., fibrosarcoma, pancreas (C25.9)",,,,,,
+410,2,"Note: Morphological types that indicate connective tissue appear in their proper place in the alphabetic index with the instruction ""see Neoplasm, connective tissue ....""",,,,,,,,
+411,2,abdomen,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+412,2,abdominal wall,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+413,2,ankle,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+414,2,antecubital fossa or space,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+415,2,arm,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+416,2,auricle,,(ear),C49.0,C79.89,-,D21.0,D48.1,D49.2
+417,2,axilla,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+418,2,back,,,C49.6,C79.89,-,D21.6,D48.1,D49.2
+419,2,breast,"Neoplasm, breast",,,,,,,
+420,2,buttock,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+421,2,calf,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+422,2,cervical region,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+423,2,cheek,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+424,2,chest,,(wall),C49.3,C79.89,-,D21.3,D48.1,D49.2
+425,2,chin,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+426,2,diaphragm,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+427,2,ear,,(external),C49.0,C79.89,-,D21.0,D48.1,D49.2
+428,2,elbow,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+429,2,extrarectal,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+430,2,extremity,,,C49.9,C79.89,-,D21.9,D48.1,D49.2
+431,3,lower,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+432,3,upper,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+433,2,eyelid,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+434,2,face,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+435,2,finger,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+436,2,flank,,,C49.6,C79.89,-,D21.6,D48.1,D49.2
+437,2,foot,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+438,2,forearm,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+439,2,forehead,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+440,2,gastric,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+441,2,gastrointestinal,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+442,2,gluteal region,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+443,2,great vessels NEC,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+444,2,groin,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+445,2,hand,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+446,2,head,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+447,2,heel,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+448,2,hip,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+449,2,hypochondrium,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+450,2,iliopsoas muscle,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+451,2,infraclavicular region,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+452,2,inguinal,,(canal) (region),C49.5,C79.89,-,D21.5,D48.1,D49.2
+453,2,intestinal,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+454,2,intrathoracic,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+455,2,ischiorectal fossa,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+456,2,jaw,,,C03.9,C79.89,D00.03,D10.39,D48.1,D49.0
+457,2,knee,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+458,2,leg,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+459,2,limb NEC,,,C49.9,C79.89,-,D21.9,D48.1,D49.2
+460,3,lower,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+461,3,upper,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+462,2,nates,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+463,2,neck,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+464,2,orbit,,,C69.6-,C79.49,D09.2-,D31.6-,D48.1,D49.89
+465,2,overlapping lesion,,,C49.8,-,-,-,-,-
+466,2,pararectal,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+467,2,para-urethral,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+468,2,paravaginal,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+469,2,pelvis,,(floor),C49.5,C79.89,-,D21.5,D48.1,D49.2
+470,2,pelvo-abdominal,,,C49.8,C79.89,-,D21.6,D48.1,D49.2
+471,2,perineum,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+472,2,perirectal,,(tissue),C49.5,C79.89,-,D21.5,D48.1,D49.2
+473,2,periurethral,,(tissue),C49.5,C79.89,-,D21.5,D48.1,D49.2
+474,2,popliteal fossa or space,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+475,2,presacral,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+476,2,psoas muscle,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+477,2,pterygoid fossa,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+478,2,rectovaginal septum or wall,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+479,2,rectovesical,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+480,2,retroperitoneum,,,C48.0,C78.6,-,D20.0,D48.3,D49.0
+481,2,sacrococcygeal region,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+482,2,scalp,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+483,2,scapular region,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+484,2,shoulder,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+485,2,skin,,(dermis),C44.90,C79.2,D04.9,D23.9,D48.5,D49.2
+486,2,stomach,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+487,2,submental,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+488,2,supraclavicular region,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+489,2,temple,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+490,2,temporal region,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+491,2,thigh,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+492,2,thoracic,,(duct) (wall),C49.3,C79.89,-,D21.3,D48.1,D49.2
+493,2,thorax,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+494,2,thumb,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+495,2,toe,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+496,2,trunk,,,C49.6,C79.89,-,D21.6,D48.1,D49.2
+497,2,umbilicus,,,C49.4,C79.89,-,D21.4,D48.1,D49.2
+498,2,vesicorectal,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+499,2,wrist,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+500,1,conus medullaris,,,C72.0,C79.49,-,D33.4,D43.4,D49.7
+501,1,cord,,(true) (vocal),C32.0,C78.39,D02.0,D14.1,D38.0,D49.1
+502,2,false,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+503,2,spermatic,,,C63.1-,C79.82,D07.69,D29.8,D40.8,D49.59
+504,2,spinal,,(cervical) (lumbar) (thoracic),C72.0,C79.49,-,D33.4,D43.4,D49.7
+505,1,cornea,,(limbus),C69.1-,C79.49,D09.2-,D31.1-,D48.7,D49.89
+506,1,corpus,,,,,,,,
+507,2,albicans,,,C56.-,C79.6-,D07.39,D27.-,D39.1-,D49.59
+508,2,"callosum, brain",,,C71.0,C79.31,-,D33.2,D43.2,D49.6
+509,2,cavernosum,,,C60.2,C79.82,D07.4,D29.0,D40.8,D49.59
+510,2,gastric,,,C16.2,C78.89,D00.2,D13.1,D37.1,D49.0
+511,2,overlapping sites,,,C54.8,-,-,-,-,-
+512,2,penis,,,C60.2,C79.82,D07.4,D29.0,D40.8,D49.59
+513,2,"striatum, cerebrum",,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+514,2,uteri,,,C54.9,C79.82,D07.0,D26.1,D39.0,D49.59
+515,3,isthmus,,,C54.0,C79.82,D07.0,D26.1,D39.0,D49.59
+516,1,cortex,,,,,,,,
+517,2,adrenal,,,C74.0-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+518,2,cerebral,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+519,1,costal cartilage,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+520,1,costovertebral joint,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+521,1,Cowper's gland,,,C68.0,C79.19,D09.19,D30.4,D41.3,D49.59
+522,1,cranial,,"(fossa, any)",C71.9,C79.31,-,D33.2,D43.2,D49.6
+523,2,meninges,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+524,2,nerve,,,C72.50,C79.49,-,D33.3,D43.3,D49.7
+525,3,specified NEC,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+526,1,craniobuccal pouch,,,C75.2,C79.89,D09.3,D35.2,D44.3,D49.7
+527,1,craniopharyngeal,,(duct) (pouch),C75.2,C79.89,D09.3,D35.3,D44.4,D49.7
+528,1,cricoid,,,C13.0,C79.89,D00.08,D10.7,D37.05,D49.0
+529,2,cartilage,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+530,1,cricopharynx,,,C13.0,C79.89,D00.08,D10.7,D37.05,D49.0
+531,1,crypt of Morgagni,,,C21.8,C78.5,D01.3,D12.9,D37.8,D49.0
+532,1,crystalline lens,,,C69.4-,C79.49,D09.2-,D31.4-,D48.7,D49.89
+533,1,cul-de-sac,,(Douglas'),C48.1,C78.6,-,D20.1,D48.4,D49.0
+534,1,cuneiform cartilage,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+535,1,cutaneous,"Neoplasm, skin",,,,,,,
+536,1,cutis,"Neoplasm, skin",,,,,,,
+537,1,cystic,,(bile) duct (common),C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+538,1,dermis,"Neoplasm, skin",,,,,,,
+539,1,diaphragm,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+540,1,"digestive organs, system, tube, or tract NEC",,,C26.9,C78.89,D01.9,D13.99,D37.9,D49.0
+541,1,"disc, intervertebral",,,C41.2,C79.51,-,D16.6,D48.0,D49.2
+542,1,"disease, generalized",,,C80.0,-,-,-,-,-
+543,1,disseminated,,,C80.0,-,-,-,-,-
+544,1,Douglas' cul-de-sac or pouch,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+545,1,duodenojejunal junction,,,C17.8,C78.4,D01.49,D13.39,D37.2,D49.0
+546,1,duodenum,,,C17.0,C78.4,D01.49,D13.2,D37.2,D49.0
+547,1,dura,,(cranial) (mater),C70.9,C79.49,-,D32.9,D42.9,D49.7
+548,2,cerebral,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+549,2,spinal,,,C70.1,C79.49,-,D32.1,D42.1,D49.7
+550,1,ear,,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+551,2,auricle or auris,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+552,2,"canal, external",,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+553,2,cartilage,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+554,2,external meatus,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+555,2,inner,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+556,2,lobule,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+557,2,middle,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+558,2,overlapping lesion with accessory sinuses,,,C31.8,-,-,-,-,-
+559,2,skin,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+560,3,basal cell carcinoma,,,C44.21-,-,-,-,-,-
+561,3,specified type NEC,,,C44.29-,-,-,-,-,-
+562,3,squamous cell carcinoma,,,C44.22-,-,-,-,-,-
+563,1,earlobe,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+564,2,basal cell carcinoma,,,C44.21-,-,-,-,-,-
+565,2,specified type NEC,,,C44.29-,-,-,-,-,-
+566,2,squamous cell carcinoma,,,C44.22-,-,-,-,-,-
+567,1,ejaculatory duct,,,C63.7,C79.82,D07.69,D29.8,D40.8,D49.59
+568,1,elbow NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+569,1,endocardium,,,C38.0,C79.89,-,D15.1,D48.7,D49.89
+570,1,endocervix,,(canal) (gland),C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+571,1,endocrine gland NEC,,,C75.9,C79.89,D09.3,D35.9,D44.9,D49.7
+572,2,pluriglandular,,,C75.8,C79.89,D09.3,D35.7,D44.9,D49.7
+573,1,endometrium,,(gland) (stroma),C54.1,C79.82,D07.0,D26.1,D39.0,D49.59
+574,1,ensiform cartilage,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+575,1,enteric,"Neoplasm, intestine",,,,,,,
+576,1,ependyma,,(brain),C71.5,C79.31,-,D33.0,D43.0,D49.6
+577,2,fourth ventricle,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+578,1,epicardium,,,C38.0,C79.89,-,D15.1,D48.7,D49.89
+579,1,epididymis,,,C63.0-,C79.82,D07.69,D29.3-,D40.8,D49.59
+580,1,epidural,,,C72.9,C79.49,-,D33.9,D43.9,D49.7
+581,1,epiglottis,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+582,2,anterior aspect or surface,,,C10.1,C79.89,D00.08,D10.5,D37.05,D49.0
+583,2,cartilage,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+584,2,free border,,(margin),C10.1,C79.89,D00.08,D10.5,D37.05,D49.0
+585,2,junctional region,,,C10.8,C79.89,D00.08,D10.5,D37.05,D49.0
+586,2,posterior,,(laryngeal),C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+587,2,suprahyoid portion,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+588,1,esophagogastric junction,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+589,1,esophagus,,,C15.9,C78.89,D00.1,D13.0,D37.8,D49.0
+590,2,abdominal,,,C15.5,C78.89,D00.1,D13.0,D37.8,D49.0
+591,2,cervical,,,C15.3,C78.89,D00.1,D13.0,D37.8,D49.0
+592,2,distal,,(third),C15.5,C78.89,D00.1,D13.0,D37.8,D49.0
+593,2,lower,,(third),C15.5,C78.89,D00.1,D13.0,D37.8,D49.0
+594,2,middle,,(third),C15.4,C78.89,D00.1,D13.0,D37.8,D49.0
+595,2,overlapping lesion,,,C15.8,-,-,-,-,-
+596,2,proximal,,(third),C15.3,C78.89,D00.1,D13.0,D37.8,D49.0
+597,2,thoracic,,,C15.4,C78.89,D00.1,D13.0,D37.8,D49.0
+598,2,upper,,(third),C15.3,C78.89,D00.1,D13.0,D37.8,D49.0
+599,1,ethmoid,,(sinus),C31.1,C78.39,D02.3,D14.0,D38.5,D49.1
+600,2,bone or labyrinth,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+601,1,eustachian tube,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+602,1,exocervix,,,C53.1,C79.82,D06.1,D26.0,D39.0,D49.59
+603,1,external,,,,,,,,
+604,2,meatus,,(ear),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+605,2,"os, cervix uteri",,,C53.1,C79.82,D06.1,D26.0,D39.0,D49.59
+606,1,extradural,,,C72.9,C79.49,-,D33.9,D43.9,D49.7
+607,1,extrahepatic,,(bile),C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+608,2,overlapping lesion with gallbladder,,,C24.8,-,-,-,-,-
+609,1,extraocular muscle,,,C69.6-,C79.49,D09.2-,D31.6-,D48.7,D49.89
+610,1,extrarectal,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+611,1,extremity,,,C76.8,C79.89,D04.8,D36.7,D48.7,D49.89
+612,2,lower,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+613,2,upper,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+614,1,eye NEC,,,C69.9-,C79.49,D09.2,D31.9,D48.7,D49.89
+615,2,overlapping sites,,,C69.8,-,-,-,-,-
+616,1,eyeball,,,C69.9-,C79.49,D09.2-,D31.9-,D48.7,D49.89
+617,1,eyebrow,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+618,2,basal cell carcinoma,,,C44.319,-,-,-,-,-
+619,2,specified type NEC,,,C44.399,-,-,-,-,-
+620,2,squamous cell carcinoma,,,C44.329,-,-,-,-,-
+621,1,eyelid,,(lower) (skin) (upper),C44.10-,-,-,-,-,-
+622,2,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+623,2,sebaceous cell,,,C44.13-,-,-,-,-,-
+624,2,specified type NEC,,,C44.19-,-,-,-,-,-
+625,2,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+626,2,cartilage,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+627,1,face NEC,,,C76.0,C79.89,D04.39,D36.7,D48.7,D49.89
+628,1,fallopian tube,,(accessory),C57.0-,C79.82,D07.39,D28.2,D39.8,D49.59
+629,1,falx,,(cerebella) (cerebri),C70.0,C79.32,-,D32.0,D42.0,D49.7
+630,1,fascia,,,,,,,,
+631,2,palmar,,,C49.1-,C79.89,-,D21.1-,D48.1,D49.2
+632,2,plantar,,,C49.2-,C79.89,-,D21.2-,D48.1,D49.2
+633,1,fatty tissue,"Neoplasm, connective tissue",,,,,,,
+634,1,"fauces, faucial NEC",,,C10.9,C79.89,D00.08,D10.5,D37.05,D49.0
+635,2,pillars,,,C09.1,C79.89,D00.08,D10.5,D37.05,D49.0
+636,2,tonsil,,,C09.9,C79.89,D00.08,D10.4,D37.05,D49.0
+637,1,femur,,(any part),C40.2-,-,-,D16.2-,-,-
+638,1,fetal membrane,,,C58,C79.82,D07.0,D26.7,D39.2,D49.59
+639,1,fibrous tissue,"Neoplasm, connective tissue",,,,,,,
+640,1,fibula,,(any part),C40.2-,C79.51,-,D16.2-,-,-
+641,1,filum terminale,,,C72.0,C79.49,-,D33.4,D43.4,D49.7
+642,1,finger NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+643,1,flank NEC,,,C76.8,C79.89,D04.5,D36.7,D48.7,D49.89
+644,1,"follicle, nabothian",,,C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+645,1,foot NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+646,1,forearm NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+647,1,forehead,,(skin),C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+648,2,basal cell carcinoma,,,C44.319,-,-,-,-,-
+649,2,specified type NEC,,,C44.399,-,-,-,-,-
+650,2,squamous cell carcinoma,,,C44.329,-,-,-,-,-
+651,1,foreskin,,,C60.0,C79.82,D07.4,D29.0,D40.8,D49.59
+652,1,fornix,,,,,,,,
+653,2,pharyngeal,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+654,2,vagina,,,C52,C79.82,D07.2,D28.1,D39.8,D49.59
+655,1,fossa,,(of),,,,,,
+656,2,anterior,,(cranial),C71.9,C79.31,-,D33.2,D43.2,D49.6
+657,2,cranial,,,C71.9,C79.31,-,D33.2,D43.2,D49.6
+658,2,ischiorectal,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+659,2,middle,,(cranial),C71.9,C79.31,-,D33.2,D43.2,D49.6
+660,2,piriform,,,C12,C79.89,D00.08,D10.7,D37.05,D49.0
+661,2,pituitary,,,C75.1,C79.89,D09.3,D35.2,D44.3,D49.7
+662,2,posterior,,(cranial),C71.9,C79.31,-,D33.2,D43.2,D49.6
+663,2,pterygoid,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+664,2,pyriform,,,C12,C79.89,D00.08,D10.7,D37.05,D49.0
+665,2,Rosenmuller,,,C11.2,C79.89,D00.08,D10.6,D37.05,D49.0
+666,2,tonsillar,,,C09.0,C79.89,D00.08,D10.5,D37.05,D49.0
+667,1,fourchette,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+668,1,frenulum,,,,,,,,
+669,2,labii,"Neoplasm, lip, internal",,,,,,,
+670,2,linguae,,,C02.2,C79.89,D00.07,D10.1,D37.02,D49.0
+671,1,frontal,,,,,,,,
+672,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+673,2,"lobe, brain",,,C71.1,C79.31,-,D33.0,D43.0,D49.6
+674,2,pole,,,C71.1,C79.31,-,D33.0,D43.0,D49.6
+675,2,sinus,,,C31.2,C78.39,D02.3,D14.0,D38.5,D49.1
+676,1,fundus,,,,,,,,
+677,2,stomach,,,C16.1,C78.89,D00.2,D13.1,D37.1,D49.0
+678,2,uterus,,,C54.3,C79.82,D07.0,D26.1,D39.0,D49.59
+679,1,gall duct,,(extrahepatic),C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+680,2,intrahepatic,,,C22.1,C78.7,D01.5,D13.4,D37.6,D49.0
+681,1,gallbladder,,,C23,C78.89,D01.5,D13.5,D37.6,D49.0
+682,2,overlapping lesion with extrahepatic bile ducts,,,C24.8,-,-,-,-,-
+683,1,ganglia,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+684,2,basal,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+685,2,cranial nerve,,,C72.50,C79.49,-,D33.3,D43.3,D49.7
+686,1,Gartner's duct,,,C52,C79.82,D07.2,D28.1,D39.8,D49.59
+687,1,gastric,"Neoplasm, stomach",,,,,,,
+688,1,gastrocolic,,,C26.9,C78.89,D01.9,D13.99,D37.9,D49.0
+689,1,gastroesophageal junction,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+690,1,gastrointestinal,,(tract),C26.9,C78.89,D01.9,D13.99,D37.9,D49.0
+691,1,generalized,,,C80.0,-,-,-,-,-
+692,1,genital organ or tract,,,,,,,,
+693,2,female NEC,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+694,3,overlapping lesion,,,C57.8,-,-,-,-,-
+695,3,specified site NEC,,,C57.7,C79.82,D07.39,D28.7,D39.8,D49.59
+696,2,male NEC,,,C63.9,C79.82,D07.60,D29.9,D40.9,D49.59
+697,3,overlapping lesion,,,C63.8,-,-,-,-,-
+698,3,specified site NEC,,,C63.7,C79.82,D07.69,D29.8,D40.8,D49.59
+699,1,genitourinary tract,,,,,,,,
+700,2,female,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+701,2,male,,,C63.9,C79.82,D07.60,D29.9,D40.9,D49.59
+702,1,gingiva,,(alveolar) (marginal),C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+703,2,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+704,2,mandibular,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+705,2,maxillary,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+706,2,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+707,1,"gland, glandular",,(lymphatic) (system),,,,,,
+708,2,endocrine NEC,,,C75.9,C79.89,D09.3,D35.9,D44.9,D49.7
+709,2,salivary,"Neoplasm, salivary gland",,,,,,,
+710,1,glans penis,,,C60.1,C79.82,D07.4,D29.0,D40.8,D49.59
+711,1,globus pallidus,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+712,1,glomus,,,,,,,,
+713,2,coccygeal,,,C49.5,C79.89,-,D21.5,D48.1,D49.2
+714,2,jugularis,,,C75.5,C79.89,-,D35.6,D44.7,D49.7
+715,1,glosso-epiglottic fold,,(s),C10.1,C79.89,D00.08,D10.5,D37.05,D49.0
+716,1,glossopalatine fold,,,C09.1,C79.89,D00.08,D10.5,D37.05,D49.0
+717,1,glossopharyngeal sulcus,,,C09.0,C79.89,D00.08,D10.5,D37.05,D49.0
+718,1,glottis,,,C32.0,C78.39,D02.0,D14.1,D38.0,D49.1
+719,1,gluteal region,,,C76.3,C79.89,D04.5,D36.7,D48.7,D49.89
+720,1,great vessels NEC,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+721,1,groin NEC,,,C76.3,C79.89,D04.5,D36.7,D48.7,D49.89
+722,1,gum,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+723,2,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+724,2,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+725,1,hand NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+726,1,head NEC,,,C76.0,C79.89,D04.4,D36.7,D48.7,D49.89
+727,1,heart,,,C38.0,C79.89,-,D15.1,D48.7,D49.89
+728,1,heel NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+729,1,helix,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+730,1,"hematopoietic, hemopoietic tissue NEC",,,C96.9,-,-,-,-,-
+731,2,specified NEC,,,C96.Z,-,-,-,-,-
+732,1,"hemisphere, cerebral",,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+733,1,hemorrhoidal zone,,,C21.1,C78.5,D01.3,D12.9,D37.8,D49.0
+734,1,hepatic,,,C22.9,C78.7,D01.5,D13.4,D37.6,D49.0
+735,2,duct,,(bile),C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+736,2,flexure,,(colon),C18.3,C78.5,D01.0,D12.3,D37.4,D49.0
+737,2,primary,,,C22.8,C78.7,D01.5,D13.4,D37.6,D49.0
+738,1,hepatobiliary,,,C24.9,C78.89,D01.5,D13.5,D37.6,D49.0
+739,1,hepatoblastoma,,,C22.2,C78.7,D01.5,D13.4,D37.6,D49.0
+740,1,hepatoma,,,C22.0,C78.7,D01.5,D13.4,D37.6,D49.0
+741,1,hilus of lung,,,C34.0-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+742,1,hip NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+743,1,"hippocampus, brain",,,C71.2,C79.31,-,D33.0,D43.0,D49.6
+744,1,humerus,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+745,1,hymen,,,C52,C79.82,D07.2,D28.1,D39.8,D49.59
+746,1,"hypopharynx, hypopharyngeal NEC",,,C13.9,C79.89,D00.08,D10.7,D37.05,D49.0
+747,2,overlapping lesion,,,C13.8,-,-,-,-,-
+748,2,postcricoid region,,,C13.0,C79.89,D00.08,D10.7,D37.05,D49.0
+749,2,posterior wall,,,C13.2,C79.89,D00.08,D10.7,D37.05,D49.0
+750,2,pyriform fossa,,(sinus),C12,C79.89,D00.08,D10.7,D37.05,D49.0
+751,1,hypophysis,,,C75.1,C79.89,D09.3,D35.2,D44.3,D49.7
+752,1,hypothalamus,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+753,1,"ileocecum, ileocecal",,(coil) (junction) (valve),C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+754,1,ileum,,,C17.2,C78.4,D01.49,D13.39,D37.2,D49.0
+755,1,ilium,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+756,1,immunoproliferative NEC,,,C88.9,-,-,-,-,-
+757,1,infraclavicular,,(region),C76.1,C79.89,D04.5,D36.7,D48.7,D49.89
+758,1,inguinal,,(region),C76.3,C79.89,D04.5,D36.7,D48.7,D49.89
+759,1,insula,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+760,1,insular tissue,,(pancreas),C25.4,C78.89,D01.7,D13.7,D37.8,D49.0
+761,2,brain,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+762,1,interarytenoid fold,,,C13.1,C79.89,D00.08,D10.7,D37.05,D49.0
+763,2,hypopharyngeal aspect,,,C13.1,C79.89,D00.08,D10.7,D37.05,D49.0
+764,2,laryngeal aspect,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+765,2,marginal zone,,,C13.1,C79.89,D00.08,D10.7,D37.05,D49.0
+766,1,interdental papillae,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+767,2,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+768,2,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+769,1,internal,,,,,,,,
+770,2,capsule,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+771,2,os,,(cervix),C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+772,1,intervertebral cartilage or disc,,,C41.2,C79.51,-,D16.6,D48.0,D49.2
+773,1,"intestine, intestinal",,,C26.0,C78.80,D01.40,D13.99,D37.8,D49.0
+774,2,large,,,C18.9,C78.5,D01.0,D12.6,D37.4,D49.0
+775,3,appendix,,,C18.1,C78.5,D01.0,D12.1,D37.3,D49.0
+776,3,caput coli,,,C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+777,3,cecum,,,C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+778,3,colon,,,C18.9,C78.5,D01.0,D12.6,D37.4,D49.0
+779,4,and rectum,,,C19,C78.5,D01.1,D12.7,D37.5,D49.0
+780,4,ascending,,,C18.2,C78.5,D01.0,D12.2,D37.4,D49.0
+781,4,caput,,,C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+782,4,descending,,,C18.6,C78.5,D01.0,D12.4,D37.4,D49.0
+783,4,distal,,,C18.6,C78.5,D01.0,D12.4,D37.4,D49.0
+784,4,left,,,C18.6,C78.5,D01.0,D12.4,D37.4,D49.0
+785,4,overlapping lesion,,,C18.8,-,-,-,-,-
+786,4,pelvic,,,C18.7,C78.5,D01.0,D12.5,D37.4,D49.0
+787,4,right,,,C18.2,C78.5,D01.0,D12.2,D37.4,D49.0
+788,4,sigmoid,,(flexure),C18.7,C78.5,D01.0,D12.5,D37.4,D49.0
+789,4,transverse,,,C18.4,C78.5,D01.0,D12.3,D37.4,D49.0
+790,3,hepatic flexure,,,C18.3,C78.5,D01.0,D12.3,D37.4,D49.0
+791,3,"ileocecum, ileocecal",,(coil) (valve),C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+792,3,overlapping lesion,,,C18.8,-,-,-,-,-
+793,3,sigmoid flexure,,(lower) (upper),C18.7,C78.5,D01.0,D12.5,D37.4,D49.0
+794,3,splenic flexure,,,C18.5,C78.5,D01.0,D12.3,D37.4,D49.0
+795,2,small,,,C17.9,C78.4,D01.40,D13.30,D37.2,D49.0
+796,3,duodenum,,,C17.0,C78.4,D01.49,D13.2,D37.2,D49.0
+797,3,ileum,,,C17.2,C78.4,D01.49,D13.39,D37.2,D49.0
+798,3,jejunum,,,C17.1,C78.4,D01.49,D13.39,D37.2,D49.0
+799,3,overlapping lesion,,,C17.8,-,-,-,-,-
+800,2,tract NEC,,,C26.0,C78.89,D01.40,D13.99,D37.8,D49.0
+801,1,intra-abdominal,,,C76.2,C79.89,D09.8,D36.7,D48.7,D49.89
+802,1,intracranial NEC,,,C71.9,C79.31,-,D33.2,D43.2,D49.6
+803,1,intrahepatic,,(bile),C22.1,C78.7,D01.5,D13.4,D37.6,D49.0
+804,1,intraocular,,,C69.9-,C79.49,D09.2-,D31.9-,D48.7,D49.89
+805,1,intraorbital,,,C69.6-,C79.49,D09.2-,D31.6-,D48.7,D49.89
+806,1,intrasellar,,,C75.1,C79.89,D09.3,D35.2,D44.3,D49.7
+807,1,intrathoracic,,(cavity) (organs),C76.1,C79.89,D09.8,D15.9,D48.7,D49.89
+808,2,specified NEC,,,C76.1,C79.89,D09.8,D15.7,-,-
+809,1,iris,,,C69.4-,C79.49,D09.2-,D31.4-,D48.7,D49.89
+810,1,ischiorectal,,(fossa),C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+811,1,ischium,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+812,1,island of Reil,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+813,1,islands or islets of Langerhans,,,C25.4,C78.89,D01.7,D13.7,D37.8,D49.0
+814,1,isthmus uteri,,,C54.0,C79.82,D07.0,D26.1,D39.0,D49.59
+815,1,jaw,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+816,2,bone,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+817,3,lower,,,C41.1,C79.51,-,D16.5-,-,-
+818,3,upper,,,C41.0,C79.51,-,D16.4-,-,-
+819,2,carcinoma,,(any type) (lower) (upper),C76.0,C79.89,-,-,-,-
+820,2,skin,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+821,2,soft tissues,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+822,3,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+823,3,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+824,1,jejunum,,,C17.1,C78.4,D01.49,D13.39,D37.2,D49.0
+825,1,joint NEC,,,C41.9,C79.51,-,D16.9-,D48.0,D49.2
+826,2,acromioclavicular,,,C40.0-,C79.51,-,D16.0-,-,-
+827,2,bursa or synovial membrane,"Neoplasm, connective tissue",,,,,,,
+828,2,costovertebral,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+829,2,sternocostal,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+830,2,temporomandibular,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+831,1,junction,,,,,,,,
+832,2,anorectal,,,C21.8,C78.5,D01.3,D12.9,D37.8,D49.0
+833,2,cardioesophageal,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+834,2,esophagogastric,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+835,2,gastroesophageal,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+836,2,hard and soft palate,,,C05.9,C79.89,D00.00,D10.39,D37.09,D49.0
+837,2,ileocecal,,,C18.0,C78.5,D01.0,D12.0,D37.4,D49.0
+838,2,pelvirectal,,,C19,C78.5,D01.1,D12.7,D37.5,D49.0
+839,2,pelviureteric,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.59
+840,2,rectosigmoid,,,C19,C78.5,D01.1,D12.7,D37.5,D49.0
+841,2,"squamocolumnar, of cervix",,,C53.8,C79.82,D06.7,D26.0,D39.0,D49.59
+842,1,Kaposi's sarcoma,"Kaposi's, sarcoma",,,,,,,
+843,1,kidney,,(parenchymal),C64.-,C79.0-,D09.19,D30.0-,D41.0-,D49.51-
+844,2,calyx,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+845,2,hilus,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+846,2,pelvis,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+847,1,knee NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+848,1,labia,,(skin),C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+849,2,majora,,,C51.0,C79.82,D07.1,D28.0,D39.8,D49.59
+850,2,minora,,,C51.1,C79.82,D07.1,D28.0,D39.8,D49.59
+851,1,labial,,,C00.9,C79.89,D00.01,D10.0,D37.01,D49.0
+852,2,sulcus,,(lower) (upper),C06.1,C79.89,D00.02,D10.39,D37.09,D49.0
+853,1,labium,,(skin),C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+854,2,majus,,,C51.0,C79.82,D07.1,D28.0,D39.8,D49.59
+855,2,minus,,,C51.1,C79.82,D07.1,D28.0,D39.8,D49.59
+856,1,lacrimal,,,,,,,,
+857,2,canaliculi,,,C69.5-,C79.49,D09.2-,D31.5-,D48.7,D49.89
+858,2,duct,,(nasal),C69.5-,C79.49,D09.2-,D31.5-,D48.7,D49.89
+859,2,gland,,,C69.5-,C79.49,D09.2-,D31.5-,D48.7,D49.89
+860,2,punctum,,,C69.5-,C79.49,D09.2-,D31.5-,D48.7,D49.89
+861,2,sac,,,C69.5-,C79.49,D09.2-,D31.5-,D48.7,D49.89
+862,1,"Langerhans, islands or islets",,,C25.4,C78.89,D01.7,D13.7,D37.8,D49.0
+863,1,laryngopharynx,,,C13.9,C79.89,D00.08,D10.7,D37.05,D49.0
+864,1,"larynx, laryngeal NEC",,,C32.9,C78.39,D02.0,D14.1,D38.0,D49.1
+865,2,aryepiglottic fold,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+866,2,cartilage,,(arytenoid) (cricoid) (cuneiform) (thyroid),C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+867,2,commissure,,(anterior) (posterior),C32.0,C78.39,D02.0,D14.1,D38.0,D49.1
+868,2,extrinsic NEC,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+869,3,meaning hypopharynx,,,C13.9,C79.89,D00.08,D10.7,D37.05,D49.0
+870,2,interarytenoid fold,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+871,2,intrinsic,,,C32.0,C78.39,D02.0,D14.1,D38.0,D49.1
+872,2,overlapping lesion,,,C32.8,-,-,-,-,-
+873,2,ventricular band,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+874,1,leg NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+875,1,"lens, crystalline",,,C69.4-,C79.49,D09.2-,D31.4-,D48.7,D49.89
+876,1,lid,,(lower) (upper),C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+877,2,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+878,2,sebaceous cell,,,C44.13-,-,-,-,-,-
+879,2,specified type NEC,,,C44.19-,-,-,-,-,-
+880,2,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+881,1,ligament,,,,,,,,
+882,2,broad,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+883,2,Mackenrodt's,,,C57.7,C79.82,D07.39,D28.7,D39.8,D49.59
+884,2,non-uterine,"Neoplasm, connective tissue",,,,,,,
+885,2,round,,,C57.2,C79.82,-,D28.2,D39.8,D49.59
+886,2,sacro-uterine,,,C57.3,C79.82,-,D28.2,D39.8,D49.59
+887,2,uterine,,,C57.3,C79.82,-,D28.2,D39.8,D49.59
+888,2,utero-ovarian,,,C57.7,C79.82,D07.39,D28.2,D39.8,D49.59
+889,2,uterosacral,,,C57.3,C79.82,-,D28.2,D39.8,D49.59
+890,1,limb,,,C76.8,C79.89,D04.8,D36.7,D48.7,D49.89
+891,2,lower,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+892,2,upper,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+893,1,limbus of cornea,,,C69.1-,C79.49,D09.2-,D31.1-,D48.7,D49.89
+894,1,lingual NEC,,,C02.9,C79.89,D00.07,D10.1,D37.02,D49.0
+895,1,"lingula, lung",,,C34.1-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+896,1,lip,,,C00.9,C79.89,D00.01,D10.0,D37.01,D49.0
+897,2,buccal aspect,"Neoplasm, lip, internal",,,,,,,
+898,2,commissure,,,C00.6,C79.89,D00.01,D10.0,D37.01,D49.0
+899,2,external,,,C00.2,C79.89,D00.01,D10.0,D37.01,D49.0
+900,3,lower,,,C00.1,C79.89,D00.01,D10.0,D37.01,D49.0
+901,3,upper,,,C00.0,C79.89,D00.01,D10.0,D37.01,D49.0
+902,2,frenulum,"Neoplasm, lip, internal",,,,,,,
+903,2,inner aspect,"Neoplasm, lip, internal",,,,,,,
+904,2,internal,,,C00.5,C79.89,D00.01,D10.0,D37.01,D49.0
+905,3,lower,,,C00.4,C79.89,D00.01,D10.0,D37.01,D49.0
+906,3,upper,,,C00.3,C79.89,D00.01,D10.0,D37.01,D49.0
+907,2,lipstick area,,,C00.2,C79.89,D00.01,D10.0,D37.01,D49.0
+908,3,lower,,,C00.1,C79.89,D00.01,D10.0,D37.01,D49.0
+909,3,upper,,,C00.0,C79.89,D00.01,D10.0,D37.01,D49.0
+910,2,lower,,,C00.1,C79.89,D00.01,D10.0,D37.01,D49.0
+911,3,internal,,,C00.4,C79.89,D00.01,D10.0,D37.01,D49.0
+912,2,mucosa,"Neoplasm, lip, internal",,,,,,,
+913,2,oral aspect,"Neoplasm, lip, internal",,,,,,,
+914,2,overlapping lesion,,,C00.8,-,-,-,-,-
+915,3,with oral cavity or pharynx,,,C14.8,-,-,-,-,-
+916,2,skin,,(commissure) (lower) (upper),C44.00,C79.2,D04.0,D23.0,D48.5,D49.2
+917,3,basal cell carcinoma,,,C44.01,-,-,-,-,-
+918,3,specified type NEC,,,C44.09,-,-,-,-,-
+919,3,squamous cell carcinoma,,,C44.02,-,-,-,-,-
+920,2,upper,,,C00.0,C79.89,D00.01,D10.0,D37.01,D49.0
+921,3,internal,,,C00.3,C79.89,D00.01,D10.0,D37.01,D49.0
+922,2,vermilion border,,,C00.2,C79.89,D00.01,D10.0,D37.01,D49.0
+923,3,lower,,,C00.1,C79.89,D00.01,D10.0,D37.01,D49.0
+924,3,upper,,,C00.0,C79.89,D00.01,D10.0,D37.01,D49.0
+925,1,lipomatous,"Lipoma, by site",,,,,,,
+926,1,liver,,,C22.9,C78.7,D01.5,D13.4,D37.6,D49.0
+927,2,primary,,,C22.8,C78.7,D01.5,D13.4,D37.6,D49.0
+928,1,lumbosacral plexus,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+929,1,lung,,,C34.9-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+930,2,azygos lobe,,,C34.1-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+931,2,carina,,,C34.0-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+932,2,hilus,,,C34.0-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+933,2,linqula,,,C34.1-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+934,2,lobe NEC,,,C34.9-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+935,2,lower lobe,,,C34.3-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+936,2,main bronchus,,,C34.0-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+937,2,mesothelioma,Mesothelioma,,,,,,,
+938,2,middle lobe,,,C34.2,C78.0-,D02.21,D14.31,D38.1,D49.1
+939,2,overlapping lesion,,,C34.8-,-,-,-,-,-
+940,2,upper lobe,,,C34.1-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+941,1,"lymph, lymphatic channel NEC",,,C49.9,C79.89,-,D21.9,D48.1,D49.2
+942,2,gland,,(secondary),-,C77.9,-,D36.0,D48.7,D49.89
+943,3,abdominal,,,-,C77.2,-,D36.0,D48.7,D49.89
+944,3,aortic,,,-,C77.2,-,D36.0,D48.7,D49.89
+945,3,arm,,,-,C77.3,-,D36.0,D48.7,D49.89
+946,3,auricular,,(anterior) (posterior),-,C77.0,-,D36.0,D48.7,D49.89
+947,3,"axilla, axillary",,,-,C77.3,-,D36.0,D48.7,D49.89
+948,3,brachial,,,-,C77.3,-,D36.0,D48.7,D49.89
+949,3,bronchial,,,-,C77.1,-,D36.0,D48.7,D49.89
+950,3,bronchopulmonary,,,-,C77.1,-,D36.0,D48.7,D49.89
+951,3,celiac,,,-,C77.2,-,D36.0,D48.7,D49.89
+952,3,cervical,,,-,C77.0,-,D36.0,D48.7,D49.89
+953,3,cervicofacial,,,-,C77.0,-,D36.0,D48.7,D49.89
+954,3,Cloquet,,,-,C77.4,-,D36.0,D48.7,D49.89
+955,3,colic,,,-,C77.2,-,D36.0,D48.7,D49.89
+956,3,common duct,,,-,C77.2,-,D36.0,D48.7,D49.89
+957,3,cubital,,,-,C77.3,-,D36.0,D48.7,D49.89
+958,3,diaphragmatic,,,-,C77.1,-,D36.0,D48.7,D49.89
+959,3,"epigastric, inferior",,,-,C77.1,-,D36.0,D48.7,D49.89
+960,3,epitrochlear,,,-,C77.3,-,D36.0,D48.7,D49.89
+961,3,esophageal,,,-,C77.1,-,D36.0,D48.7,D49.89
+962,3,face,,,-,C77.0,-,D36.0,D48.7,D49.89
+963,3,femoral,,,-,C77.4,-,D36.0,D48.7,D49.89
+964,3,gastric,,,-,C77.2,-,D36.0,D48.7,D49.89
+965,3,groin,,,-,C77.4,-,D36.0,D48.7,D49.89
+966,3,head,,,-,C77.0,-,D36.0,D48.7,D49.89
+967,3,hepatic,,,-,C77.2,-,D36.0,D48.7,D49.89
+968,3,hilar,,(pulmonary),-,C77.1,-,D36.0,D48.7,D49.89
+969,4,splenic,,,-,C77.2,-,D36.0,D48.7,D49.89
+970,3,hypogastric,,,-,C77.5,-,D36.0,D48.7,D49.89
+971,3,ileocolic,,,-,C77.2,-,D36.0,D48.7,D49.89
+972,3,iliac,,,-,C77.5,-,D36.0,D48.7,D49.89
+973,3,infraclavicular,,,-,C77.3,-,D36.0,D48.7,D49.89
+974,3,"inguina, inguinal",,,-,C77.4,-,D36.0,D48.7,D49.89
+975,3,innominate,,,-,C77.1,-,D36.0,D48.7,D49.89
+976,3,intercostal,,,-,C77.1,-,D36.0,D48.7,D49.89
+977,3,intestinal,,,-,C77.2,-,D36.0,D48.7,D49.89
+978,3,intrabdominal,,,-,C77.2,-,D36.0,D48.7,D49.89
+979,3,intrapelvic,,,-,C77.5,-,D36.0,D48.7,D49.89
+980,3,intrathoracic,,,-,C77.1,-,D36.0,D48.7,D49.89
+981,3,jugular,,,-,C77.0,-,D36.0,D48.7,D49.89
+982,3,leg,,,-,C77.4,-,D36.0,D48.7,D49.89
+983,3,limb,,,,,,,,
+984,4,lower,,,-,C77.4,-,D36.0,D48.7,D49.89
+985,4,upper,,,-,C77.3,-,D36.0,D48.7,D49.89
+986,3,lower limb,,,-,C77.4,-,D36.0,D48.7,D49.89
+987,3,lumbar,,,-,C77.2,-,D36.0,D48.7,D49.89
+988,3,mandibular,,,-,C77.0,-,D36.0,D48.7,D49.89
+989,3,mediastinal,,,-,C77.1,-,D36.0,D48.7,D49.89
+990,3,mesenteric,,(inferior) (superior),-,C77.2,-,D36.0,D48.7,D49.89
+991,3,midcolic,,,-,C77.2,-,D36.0,D48.7,D49.89
+992,3,multiple sites in categories C77.0 - C77.5,,,-,C77.8,-,D36.0,D48.7,D49.89
+993,3,neck,,,-,C77.0,-,D36.0,D48.7,D49.89
+994,3,obturator,,,-,C77.5,-,D36.0,D48.7,D49.89
+995,3,occipital,,,-,C77.0,-,D36.0,D48.7,D49.89
+996,3,pancreatic,,,-,C77.2,-,D36.0,D48.7,D49.89
+997,3,para-aortic,,,-,C77.2,-,D36.0,D48.7,D49.89
+998,3,paracervical,,,-,C77.5,-,D36.0,D48.7,D49.89
+999,3,parametrial,,,-,C77.5,-,D36.0,D48.7,D49.89
+1000,3,parasternal,,,-,C77.1,-,D36.0,D48.7,D49.89
+1001,3,parotid,,,-,C77.0,-,D36.0,D48.7,D49.89
+1002,3,pectoral,,,-,C77.3,-,D36.0,D48.7,D49.89
+1003,3,pelvic,,,-,C77.5,-,D36.0,D48.7,D49.89
+1004,3,peri-aortic,,,-,C77.2,-,D36.0,D48.7,D49.89
+1005,3,peripancreatic,,,-,C77.2,-,D36.0,D48.7,D49.89
+1006,3,popliteal,,,-,C77.4,-,D36.0,D48.7,D49.89
+1007,3,porta hepatis,,,-,C77.2,-,D36.0,D48.7,D49.89
+1008,3,portal,,,-,C77.2,-,D36.0,D48.7,D49.89
+1009,3,preauricular,,,-,C77.0,-,D36.0,D48.7,D49.89
+1010,3,prelaryngeal,,,-,C77.0,-,D36.0,D48.7,D49.89
+1011,3,presymphysial,,,-,C77.5,-,D36.0,D48.7,D49.89
+1012,3,pretracheal,,,-,C77.0,-,D36.0,D48.7,D49.89
+1013,3,primary,,(any site),C96.9,-,-,-,-,-
+1014,3,pulmonary,,(hiler),-,C77.1,-,D36.0,D48.7,D49.89
+1015,3,pyloric,,,-,C77.2,-,D36.0,D48.7,D49.89
+1016,3,retroperitoneal,,,-,C77.2,-,D36.0,D48.7,D49.89
+1017,3,retropharyngeal,,,-,C77.0,-,D36.0,D48.7,D49.89
+1018,3,Rosenmuller's,,,-,C77.4,-,D36.0,D48.7,D49.89
+1019,3,sacral,,,-,C77.5,-,D36.0,D48.7,D49.89
+1020,3,scalene,,,-,C77.0,-,D36.0,D48.7,D49.89
+1021,3,site NEC,,,-,C77.9,-,D36.0,D48.7,D49.89
+1022,3,splenic,,(hilar),-,C77.2,-,D36.0,D48.7,D49.89
+1023,3,subclavicular,,,-,C77.3,-,D36.0,D48.7,D49.89
+1024,3,subinguinal,,,-,C77.4,-,D36.0,D48.7,D49.89
+1025,3,sublingual,,,-,C77.0,-,D36.0,D48.7,D49.89
+1026,3,submandibular,,,-,C77.0,-,D36.0,D48.7,D49.89
+1027,3,submaxillary,,,-,C77.0,-,D36.0,D48.7,D49.89
+1028,3,submental,,,-,C77.0,-,D36.0,D48.7,D49.89
+1029,3,subscapular,,,-,C77.3,-,D36.0,D48.7,D49.89
+1030,3,supraclavicular,,,-,C77.0,-,D36.0,D48.7,D49.89
+1031,3,thoracic,,,-,C77.1,-,D36.0,D48.7,D49.89
+1032,3,tibial,,,-,C77.4,-,D36.0,D48.7,D49.89
+1033,3,tracheal,,,-,C77.1,-,D36.0,D48.7,D49.89
+1034,3,tracheobronchial,,,-,C77.1,-,D36.0,D48.7,D49.89
+1035,3,upper limb,,,-,C77.3,-,D36.0,D48.7,D49.89
+1036,3,Virchow's,,,-,C77.0,-,D36.0,D48.7,D49.89
+1037,2,node,,,,,,,,
+1038,3,primary NEC,,,C96.9,-,-,-,-,-
+1039,2,vessel,,,C49.9,C79.89,-,D21.9,D48.1,D49.2
+1040,1,Mackenrodt's ligament,,,C57.7,C79.82,D07.39,D28.7,D39.8,D49.59
+1041,1,malar,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1042,2,region,"Neoplasm, cheek",,,,,,,
+1043,1,mammary gland,"Neoplasm, breast",,,,,,,
+1044,1,mandible,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+1045,2,alveolar,,,,,,,,
+1046,3,mucosa,,(carcinoma),C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+1047,3,ridge or process,,,C41.1,C79.51,-,D16.5-,D48.0,D49.2
+1048,1,marrow,,(bone),C96.9,C79.52,-,-,D47.9,D49.89
+1049,1,mastectomy site,,(skin),C44.501,C79.2,-,-,-,-
+1050,2,specified as breast tissue,,,C50.8-,C79.81,-,-,-,-
+1051,1,mastoid,,(air cells) (antrum) (cavity),C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+1052,2,bone or process,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1053,1,"maxilla, maxillary",,(superior),C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1054,2,alveolar,,,,,,,,
+1055,3,mucosa,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+1056,3,ridge or process,,(carcinoma),C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1057,2,antrum,,,C31.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1058,2,carcinoma,,,C03.0,C79.51,-,-,-,-
+1059,2,inferior,"Neoplasm, mandible",,,,,,,
+1060,2,sinus,,,C31.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1061,1,meatus external,,(ear),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1062,1,"Meckel diverticulum, malignant",,,C17.3,C78.4,D01.49,D13.39,D37.2,D49.0
+1063,1,"mediastinum, mediastinal",,,C38.3,C78.1,-,D15.2,D38.3,D49.89
+1064,2,anterior,,,C38.1,C78.1,-,D15.2,D38.3,D49.89
+1065,2,posterior,,,C38.2,C78.1,-,D15.2,D38.3,D49.89
+1066,1,medulla,,,,,,,,
+1067,2,adrenal,,,C74.1-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+1068,2,oblongata,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+1069,1,meibomian gland,,,C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+1070,2,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+1071,2,sebaceous cell,,,C44.13-,-,-,-,-,-
+1072,2,specified type NEC,,,C44.19-,-,-,-,-,-
+1073,2,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+1074,1,melanoma,Melanoma,,,,,,,
+1075,1,meninges,,,C70.9,C79.49,-,D32.9,D42.9,D49.7
+1076,2,brain,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+1077,2,cerebral,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+1078,2,crainial,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+1079,2,intracranial,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+1080,2,spinal,,(cord),C70.1,C79.49,-,D32.1,D42.1,D49.7
+1081,1,"meniscus, knee joint",,(lateral) (medial),C40.2-,C79.51,-,D16.2-,D48.0,D49.2
+1082,1,Merkel cell,"Carcinoma, Merkel cell",,,,,,,
+1083,1,"mesentery, mesenteric",,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1084,1,mesoappendix,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1085,1,mesocolon,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1086,1,mesopharynx,"Neoplasm, oropharynx",,,,,,,
+1087,1,mesosalpinx,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+1088,1,mesothelial tissue,Mesothelioma,,,,,,,
+1089,1,mesothelioma,Mesothelioma,,,,,,,
+1090,1,mesovarium,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+1091,1,metacarpus,,(any bone),C40.1-,C79.51,-,D16.1-,-,-
+1092,1,metastatic NEC,,,-,C79.9,-,-,-,-
+1093,1,metatarsus,,(any bone),C40.3-,C79.51,-,D16.3-,-,-
+1094,1,midbrain,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+1095,1,milk duct,"Neoplasm, breast",,,,,,,
+1096,1,mons,,,,,,,,
+1097,2,pubis,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1098,2,veneris,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1099,1,motor tract,,,C72.9,C79.49,-,D33.9,D43.9,D49.7
+1100,2,brain,,,C71.9,C79.31,-,D33.2,D43.2,D49.6
+1101,2,cauda equina,,,C72.1,C79.49,-,D33.4,D43.4,D49.7
+1102,2,spinal,,,C72.0,C79.49,-,D33.4,D43.4,D49.7
+1103,1,mouth,,,C06.9,C79.89,D00.00,D10.30,D37.09,D49.0
+1104,2,book-leaf,,,C06.89,C79.89,-,-,-,-
+1105,2,floor,,,C04.9,C79.89,D00.06,D10.2,D37.09,D49.0
+1106,3,anterior portion,,,C04.0,C79.89,D00.06,D10.2,D37.09,D49.0
+1107,3,lateral portion,,,C04.1,C79.89,D00.06,D10.2,D37.09,D49.0
+1108,3,overlapping lesion,,,C04.8,-,-,-,-,-
+1109,2,overlapping NEC,,,C06.80,-,-,-,-,-
+1110,2,roof,,,C05.9,C79.89,D00.00,D10.39,D37.09,D49.0
+1111,2,specified part NEC,,,C06.89,C79.89,D00.00,D10.39,D37.09,D49.0
+1112,2,vestibule,,,C06.1,C79.89,D00.00,D10.39,D37.09,D49.0
+1113,1,mucosa,,,,,,,,
+1114,2,alveolar,,(ridge or process),C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+1115,3,lower,,,C03.1,C79.89,D00.03,D10.39,D37.09,D49.0
+1116,3,upper,,,C03.0,C79.89,D00.03,D10.39,D37.09,D49.0
+1117,2,buccal,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+1118,2,cheek,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+1119,2,lip,"Neoplasm, lip, internal",,,,,,,
+1120,2,nasal,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1121,2,oral,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+1122,1,Mullerian duct,,,,,,,,
+1123,2,female,,,C57.7,C79.82,D07.39,D28.7,D39.8,D49.59
+1124,2,male,,,C63.7,C79.82,D07.69,D29.8,D40.8,D49.59
+1125,1,muscle,,,,,,,,
+1126,2,extraocular,,,C69.6-,C79.49,D09.2-,D31.6-,D48.7,D49.89
+1127,1,myocardium,,,C38.0,C79.89,-,D15.1,D48.7,D49.89
+1128,1,myometrium,,,C54.2,C79.82,D07.0,D26.1,D39.0,D49.59
+1129,1,myopericardium,,,C38.0,C79.89,-,D15.1,D48.7,D49.89
+1130,1,nabothian gland,,(follicle),C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+1131,1,nail,,,C44.90,C79.2,D04.9,D23.9,D48.5,D49.2
+1132,2,finger,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1133,2,toe,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1134,1,"nares, naris",,(anterior) (posterior),C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1135,1,nasal,"Neoplasm, nose",,,,,,,
+1136,1,nasolabial groove,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1137,1,nasolacrimal duct,,,C69.5-,C79.49,D09.2-,D31.5-,D48.7,D49.89
+1138,1,"nasopharynx, nasopharyngeal",,,C11.9,C79.89,D00.08,D10.6,D37.05,D49.0
+1139,2,floor,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1140,2,overlapping lesion,,,C11.8,-,-,-,-,-
+1141,2,roof,,,C11.0,C79.89,D00.08,D10.6,D37.05,D49.0
+1142,2,wall,,,C11.9,C79.89,D00.08,D10.6,D37.05,D49.0
+1143,3,anterior,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1144,3,lateral,,,C11.2,C79.89,D00.08,D10.6,D37.05,D49.0
+1145,3,posterior,,,C11.1,C79.89,D00.08,D10.6,D37.05,D49.0
+1146,3,superior,,,C11.0,C79.89,D00.08,D10.6,D37.05,D49.0
+1147,1,nates,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1148,1,neck NEC,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1149,2,skin,,,C44.40,-,-,-,-,-
+1150,3,basal cell carcinoma,,,C44.41,-,-,-,-,-
+1151,3,specified type NEC,,,C44.49,-,-,-,-,-
+1152,3,squamous cell carcinoma,,,C44.42,-,-,-,-,-
+1153,1,nerve,,(ganglion),C47.9,C79.89,-,D36.10,D48.2,D49.2
+1154,2,abducens,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1155,2,accessory,,(spinal),C72.59,C79.49,-,D33.3,D43.3,D49.7
+1156,2,acoustic,,,C72.4-,C79.49,-,D33.3,D43.3,D49.7
+1157,2,auditory,,,C72.4-,C79.49,-,D33.3,D43.3,D49.7
+1158,2,autonomic NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1159,2,brachial,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1160,2,cranial,,,C72.50,C79.49,-,D33.3,D43.3,D49.7
+1161,3,specified NEC,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1162,2,facial,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1163,2,femoral,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1164,2,ganglion NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1165,2,glossopharyngeal,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1166,2,hypoglossal,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1167,2,intercostal,,,C47.3,C79.89,-,D36.14,D48.2,D49.2
+1168,2,lumbar,,,C47.6,C79.89,-,D36.17,D48.2,D49.2
+1169,2,median,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1170,2,obturator,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1171,2,oculomotor,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1172,2,olfactory,,,C47.2-,C79.49,-,D33.3,D43.3,D49.7
+1173,2,optic,,,C72.3-,C79.49,-,D33.3,D43.3,D49.7
+1174,2,parasympathetic NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1175,2,peripheral NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1176,3,abdomen,,,C47.4,C79.89,-,D36.15,D48.2,D49.2
+1177,3,abdominal wall,,,C47.4,C79.89,-,D36.15,D48.2,D49.2
+1178,3,ankle,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1179,3,antecubital fossa or space,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1180,3,arm,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1181,3,auricle,,(ear),C47.0,C79.89,-,D36.11,D48.2,D49.2
+1182,3,axilla,,,C47.3,C79.89,-,D36.12,D48.2,D49.2
+1183,3,back,,,C47.6,C79.89,-,D36.17,D48.2,D49.2
+1184,3,buttock,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1185,3,calf,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1186,3,cervical region,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1187,3,cheek,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1188,3,chest,,(wall),C47.3,C79.89,-,D36.14,D48.2,D49.2
+1189,3,chin,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1190,3,ear,,(external),C47.0,C79.89,-,D36.11,D48.2,D49.2
+1191,3,elbow,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1192,3,extrarectal,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1193,3,extremity,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1194,4,lower,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1195,4,upper,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1196,3,eyelid,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1197,3,face,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1198,3,finger,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1199,3,flank,,,C47.6,C79.89,-,D36.17,D48.2,D49.2
+1200,3,foot,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1201,3,forearm,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1202,3,forehead,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1203,3,gluteal region,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1204,3,groin,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1205,3,hand,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1206,3,head,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1207,3,heel,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1208,3,hip,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1209,3,infraclavicular region,,,C47.3,C79.89,-,D36.14,D48.2,D49.2
+1210,3,inguinal,,(canal) (region),C47.5,C79.89,-,D36.16,D48.2,D49.2
+1211,3,intrathoracic,,,C47.3,C79.89,-,D36.14,D48.2,D49.2
+1212,3,ischiorectal fossa,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1213,3,knee,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1214,3,leg,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1215,3,limb NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1216,4,lower,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1217,4,upper,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1218,3,nates,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1219,3,neck,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1220,3,orbit,,,C69.6-,C79.49,-,D31.6-,D48.7,D49.2
+1221,3,pararectal,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1222,3,paraurethral,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1223,3,paravaginal,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1224,3,pelvis,,(floor),C47.5,C79.89,-,D36.16,D48.2,D49.2
+1225,3,pelvoabdominal,,,C47.8,C79.89,-,D36.17,D48.2,D49.2
+1226,3,perineum,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1227,3,perirectal,,(tissue),C47.5,C79.89,-,D36.16,D48.2,D49.2
+1228,3,periurethral,,(tissue),C47.5,C79.89,-,D36.16,D48.2,D49.2
+1229,3,popliteal fossa or space,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1230,3,presacral,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1231,3,pterygoid fossa,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1232,3,rectovaginal septum or wall,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1233,3,rectovesical,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1234,3,sacrococcygeal region,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1235,3,scalp,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1236,3,scapular region,,,C47.3,C79.89,-,D36.14,D48.2,D49.2
+1237,3,shoulder,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1238,3,submental,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1239,3,supraclavicular region,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1240,3,temple,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1241,3,temporal region,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1242,3,thigh,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1243,3,thoracic,,(duct) (wall),C47.3,C79.89,-,D36.14,D48.2,D49.2
+1244,3,thorax,,,C47.3,C79.89,-,D36.14,D48.2,D49.2
+1245,3,thumb,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1246,3,toe,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1247,3,trunk,,,C47.6,C79.89,-,D36.17,D48.2,D49.2
+1248,3,umbilicus,,,C47.4,C79.89,-,D36.15,D48.2,D49.2
+1249,3,vesicorectal,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1250,3,wrist,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1251,2,radial,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1252,2,sacral,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1253,2,sciatic,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1254,2,spinal NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1255,3,accessory,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1256,2,sympathetic NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1257,2,trigeminal,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1258,2,trochlear,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1259,2,ulnar,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1260,2,vagus,,,C72.59,C79.49,-,D33.3,D43.3,D49.7
+1261,1,nervous system,,(central),C72.9,C79.40,-,D33.9,D43.9,D49.7
+1262,2,autonomic,"Neoplasm, nerve, peripheral",,,,,,,
+1263,2,parasympathetic,"Neoplasm, nerve, peripheral",,,,,,,
+1264,2,specified site NEC,,,-,C79.49,-,D33.7,D43.8,-
+1265,2,sympathetic,"Neoplasm, nerve, peripheral",,,,,,,
+1266,1,nevus,Nevus,,,,,,,
+1267,1,nipple,,,C50.0-,C79.81,D05.-,D24.-,-,-
+1268,1,"nose, nasal",,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1269,2,ala,,(external) (nasi),C44.301,C79.2,D04.39,D23.39,D48.5,D49.2
+1270,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1271,2,cartilage,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1272,2,cavity,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1273,2,choana,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1274,2,external,,(skin),C44.301,C79.2,D04.39,D23.39,D48.5,D49.2
+1275,2,fossa,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1276,2,internal,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1277,2,mucosa,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1278,2,septum,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1279,3,posterior margin,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1280,2,sinus,"Neoplasm, sinus",,,,,,,
+1281,2,skin,,,C44.301,C79.2,D04.39,D23.39,D48.5,D49.2
+1282,3,basal cell carcinoma,,,C44.311,-,-,-,-,-
+1283,3,specified type NEC,,,C44.391,-,-,-,-,-
+1284,3,squamous cell carcinoma,,,C44.321,-,-,-,-,-
+1285,2,turbinate,,(mucosa),C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1286,3,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1287,2,vestibule,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1288,1,nostril,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1289,1,nucleus pulposus,,,C41.2,C79.51,-,D16.6,D48.0,D49.2
+1290,1,occipital,,,,,,,,
+1291,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1292,2,"lobe or pole, brain",,,C71.4,C79.31,-,D33.0,D43.0,D49.6
+1293,1,odontogenic,"Neoplasm, jaw, bone",,,,,,,
+1294,1,olfactory nerve or bulb,,,C72.2-,C79.49,-,D33.3,D43.3,D49.7
+1295,1,olive,,(brain),C71.7,C79.31,-,D33.1,D43.1,D49.6
+1296,1,omentum,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1297,1,operculum,,(brain),C71.0,C79.31,-,D33.0,D43.0,D49.6
+1298,1,"optic nerve, chiasm, or tract",,,C72.3-,C79.49,-,D33.3,D43.3,D49.7
+1299,1,oral,,(cavity),C06.9,C79.89,D00.00,D10.30,D37.09,D49.0
+1300,2,ill-defined,,,C14.8,C79.89,D00.00,D10.30,D37.09,D49.0
+1301,2,mucosa,,,C06.0,C79.89,D00.02,D10.39,D37.09,D49.0
+1302,1,orbit,,,C69.6-,C79.49,D09.2-,D31.6-,D48.7,D49.89
+1303,2,autonomic nerve,,,C69.6-,C79.49,-,D31.6-,D48.7,D49.2
+1304,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1305,2,eye,,,C69.6-,C79.49,D09.2-,D31.6-,D48.7,D49.89
+1306,2,peripheral nerves,,,C69.6-,C79.49,-,D31.6-,D48.7,D49.2
+1307,2,soft parts,,,C69.6-,C79.49,D09.2-,D31.6-,D48.7,D49.89
+1308,1,organ of Zuckerkandl,,,C75.5,C79.89,-,D35.6,D44.7,D49.7
+1309,1,oropharynx,,,C10.9,C79.89,D00.08,D10.5,D37.05,D49.0
+1310,2,branchial cleft,,(vestige),C10.4,C79.89,D00.08,D10.5,D37.05,D49.0
+1311,2,junctional region,,,C10.8,C79.89,D00.08,D10.5,D37.05,D49.0
+1312,2,lateral wall,,,C10.2,C79.89,D00.08,D10.5,D37.05,D49.0
+1313,2,overlapping lesion,,,C10.8,-,-,-,-,-
+1314,2,pillars or fauces,,,C09.1,C79.89,D00.08,D10.5,D37.05,D49.0
+1315,2,posterior wall,,,C10.3,C79.89,D00.08,D10.5,D37.05,D49.0
+1316,2,vallecula,,,C10.0,C79.89,D00.08,D10.5,D37.05,D49.0
+1317,1,os,,,,,,,,
+1318,2,external,,,C53.1,C79.82,D06.1,D26.0,D39.0,D49.59
+1319,2,internal,,,C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+1320,1,ovary,,,C56.-,C79.6-,D07.39,D27.-,D39.1-,D49.59
+1321,1,oviduct,,,C57.0-,C79.82,D07.39,D28.2,D39.8,D49.59
+1322,1,palate,,,C05.9,C79.89,D00.00,D10.39,D37.09,D49.0
+1323,2,hard,,,C05.0,C79.89,D00.05,D10.39,D37.09,D49.0
+1324,2,junction of hard and soft palate,,,C05.9,C79.89,D00.00,D10.39,D37.09,D49.0
+1325,2,overlapping lesions,,,C05.8,-,-,-,-,-
+1326,2,soft,,,C05.1,C79.89,D00.04,D10.39,D37.09,D49.0
+1327,3,nasopharyngeal surface,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1328,3,posterior surface,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1329,3,superior surface,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1330,1,palatoglossal arch,,,C09.1,C79.89,D00.00,D10.5,D37.09,D49.0
+1331,1,palatopharyngeal arch,,,C09.1,C79.89,D00.00,D10.5,D37.09,D49.0
+1332,1,pallium,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+1333,1,palpebra,,,C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+1334,2,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+1335,2,sebaceous cell,,,C44.13-,-,-,-,-,-
+1336,2,specified type NEC,,,C44.19-,-,-,-,-,-
+1337,2,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+1338,1,pancreas,,,C25.9,C78.89,D01.7,D13.6,D37.8,D49.0
+1339,2,body,,,C25.1,C78.89,D01.7,D13.6,D37.8,D49.0
+1340,2,duct,,(of Santorini) (of Wirsung),C25.3,C78.89,D01.7,D13.6,D37.8,D49.0
+1341,2,ectopic tissue,,,C25.7,C78.89,-,D13.6,D37.8,D49.0
+1342,2,head,,,C25.0,C78.89,D01.7,D13.6,D37.8,D49.0
+1343,2,islet cells,,,C25.4,C78.89,D01.7,D13.7,D37.8,D49.0
+1344,2,neck,,,C25.7,C78.89,D01.7,D13.6,D37.8,D49.0
+1345,2,overlapping lesion,,,C25.8,-,-,-,-,-
+1346,2,tail,,,C25.2,C78.89,D01.7,D13.6,D37.8,D49.0
+1347,1,para-aortic body,,,C75.5,C79.89,-,D35.6,D44.7,D49.7
+1348,1,paraganglion NEC,,,C75.5,C79.89,-,D35.6,D44.7,D49.7
+1349,1,parametrium,,,C57.3,C79.82,-,D28.2,D39.8,D49.59
+1350,1,paranephric,,,C48.0,C78.6,-,D20.0,D48.3,D49.0
+1351,1,pararectal,,,C76.3,C79.89,-,D36.7,D48.7,D49.89
+1352,1,parasagittal,,(region),C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1353,1,parasellar,,,C72.9,C79.49,-,D33.9,D43.8,D49.7
+1354,1,parathyroid,,(gland),C75.0,C79.89,D09.3,D35.1,D44.2,D49.7
+1355,1,paraurethral,,,C76.3,C79.89,-,D36.7,D48.7,D49.89
+1356,2,gland,,,C68.1,C79.19,D09.19,D30.8,D41.8,D49.59
+1357,1,paravaginal,,,C76.3,C79.89,-,D36.7,D48.7,D49.89
+1358,1,"parenchyma, kidney",,,C64.-,C79.0-,D09.19,D30.0-,D41.0-,D49.51-
+1359,1,parietal,,,,,,,,
+1360,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1361,2,"lobe, brain",,,C71.3,C79.31,-,D33.0,D43.0,D49.6
+1362,1,paroophoron,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+1363,1,parotid,,(duct) (gland),C07,C79.89,D00.00,D11.0,D37.030,D49.0
+1364,1,parovarium,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+1365,1,patella,,,C40.20,C79.51,-,-,-,-
+1366,1,"peduncle, cerebral",,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+1367,1,pelvirectal junction,,,C19,C78.5,D01.1,D12.7,D37.5,D49.0
+1368,1,"pelvis, pelvic",,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1369,2,bone,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+1370,2,floor,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1371,2,renal,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+1372,2,viscera,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1373,2,wall,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1374,1,pelvo-abdominal,,,C76.8,C79.89,D09.8,D36.7,D48.7,D49.89
+1375,1,penis,,,C60.9,C79.82,D07.4,D29.0,D40.8,D49.59
+1376,2,body,,,C60.2,C79.82,D07.4,D29.0,D40.8,D49.59
+1377,2,corpus,,(cavernosum),C60.2,C79.82,D07.4,D29.0,D40.8,D49.59
+1378,2,glans,,,C60.1,C79.82,D07.4,D29.0,D40.8,D49.59
+1379,2,overlapping sites,,,C60.8,-,-,-,-,-
+1380,2,skin NEC,,,C60.9,C79.82,D07.4,D29.0,D40.8,D49.59
+1381,1,periadrenal,,(tissue),C48.0,C78.6,-,D20.0,D48.3,D49.0
+1382,1,perianal,,(skin),C44.500,C79.2,D04.5,D23.5,D48.5,D49.2
+1383,1,pericardium,,,C38.0,C79.89,-,D15.1,D48.7,D49.89
+1384,1,perinephric,,,C48.0,C78.6,-,D20.0,D48.3,D49.0
+1385,1,perineum,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1386,1,periodontal tissue NEC,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+1387,1,periosteum,"Neoplasm, bone",,,,,,,
+1388,1,peripancreatic,,,C48.0,C78.6,-,D20.0,D48.3,D49.0
+1389,1,peripheral nerve NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1390,1,perirectal,,(tissue),C76.3,C79.89,-,D36.7,D48.7,D49.89
+1391,1,perirenal,,(tissue),C48.0,C78.6,-,D20.0,D48.3,D49.0
+1392,1,"peritoneum, peritoneal",,(cavity),C48.2,C78.6,-,D20.1,D48.4,D49.0
+1393,2,benign mesothelial tissue,"Mesothelioma, benign",,,,,,,
+1394,2,overlapping lesion,,,C48.8,-,-,-,-,-
+1395,3,with digestive organs,,,C26.9,-,-,-,-,-
+1396,2,parietal,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1397,2,pelvic,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1398,2,specified part NEC,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1399,1,peritonsillar,,(tissue),C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1400,1,periurethral tissue,,,C76.3,C79.89,-,D36.7,D48.7,D49.89
+1401,1,phalanges,,,,,,,,
+1402,2,foot,,,C40.3-,C79.51,-,D16.3-,-,-
+1403,2,hand,,,C40.1-,C79.51,-,D16.1-,-,-
+1404,1,"pharynx, pharyngeal",,,C14.0,C79.89,D00.08,D10.9,D37.05,D49.0
+1405,2,bursa,,,C11.1,C79.89,D00.08,D10.6,D37.05,D49.0
+1406,2,fornix,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1407,2,recess,,,C11.2,C79.89,D00.08,D10.6,D37.05,D49.0
+1408,2,region,,,C14.0,C79.89,D00.08,D10.9,D37.05,D49.0
+1409,2,tonsil,,,C11.1,C79.89,D00.08,D10.6,D37.05,D49.0
+1410,2,wall,,(lateral) (posterior),C14.0,C79.89,D00.08,D10.9,D37.05,D49.0
+1411,1,pia mater,,,C70.9,C79.40,-,D32.9,D42.9,D49.7
+1412,2,cerebral,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+1413,2,cranial,,,C70.0,C79.32,-,D32.0,D42.0,D49.7
+1414,2,spinal,,,C70.1,C79.49,-,D32.1,D42.1,D49.7
+1415,1,pillars of fauces,,,C09.1,C79.89,D00.08,D10.5,D37.05,D49.0
+1416,1,pineal,,(body) (gland),C75.3,C79.89,D09.3,D35.4,D44.5,D49.7
+1417,1,pinna,,(ear),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1418,1,piriform fossa or sinus,,,C12,C79.89,D00.08,D10.7,D37.05,D49.0
+1419,1,pituitary,,(body) (fossa) (gland) (lobe),C75.1,C79.89,D09.3,D35.2,D44.3,D49.7
+1420,1,placenta,,,C58,C79.82,D07.0,D26.7,D39.2,D49.59
+1421,1,"pleura, pleural",,(cavity),C38.4,C78.2,-,D19.0,D38.2,D49.1
+1422,2,overlapping lesion with heart or mediastinum,,,C38.8,-,-,-,-,-
+1423,2,parietal,,,C38.4,C78.2,-,D19.0,D38.2,D49.1
+1424,2,visceral,,,C38.4,C78.2,-,D19.0,D38.2,D49.1
+1425,1,plexus,,,,,,,,
+1426,2,brachial,,,C47.1-,C79.89,-,D36.12,D48.2,D49.2
+1427,2,cervical,,,C47.0,C79.89,-,D36.11,D48.2,D49.2
+1428,2,choroid,,,C71.5,C79.31,-,D33.0,D43.0,D49.6
+1429,2,lumbosacral,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1430,2,sacral,,,C47.5,C79.89,-,D36.16,D48.2,D49.2
+1431,1,pluriendocrine,,,C75.8,C79.89,D09.3,D35.7,D44.9,D49.7
+1432,1,pole,,,,,,,,
+1433,2,frontal,,,C71.1,C79.31,-,D33.0,D43.0,D49.6
+1434,2,occipital,,,C71.4,C79.31,-,D33.0,D43.0,D49.6
+1435,1,pons,,(varolii),C71.7,C79.31,-,D33.1,D43.1,D49.6
+1436,1,popliteal fossa or space,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+1437,1,postcricoid,,(region),C13.0,C79.89,D00.08,D10.7,D37.05,D49.0
+1438,1,posterior fossa,,(cranial),C71.9,C79.31,-,D33.2,D43.2,D49.6
+1439,1,postnasal space,,,C11.9,C79.89,D00.08,D10.6,D37.05,D49.0
+1440,1,prepuce,,,C60.0,C79.82,D07.4,D29.0,D40.8,D49.59
+1441,1,prepylorus,,,C16.4,C78.89,D00.2,D13.1,D37.1,D49.0
+1442,1,presacral,,(region),C76.3,C79.89,-,D36.7,D48.7,D49.89
+1443,1,prostate,,(gland),C61,C79.82,D07.5,D29.1,D40.0,D49.59
+1444,2,utricle,,,C68.0,C79.19,D09.19,D30.4,D41.3,D49.59
+1445,1,pterygoid fossa,,,C49.0,C79.89,-,D21.0,D48.1,D49.2
+1446,1,pubic bone,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+1447,1,"pudenda, pudendum",,(femaie),C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1448,1,pulmonary,,,C34.9-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+1449,1,putamen,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+1450,1,pyloric,,,,,,,,
+1451,2,antrum,,,C16.3,C78.89,D00.2,D13.1,D37.1,D49.0
+1452,2,canal,,,C16.4,C78.89,D00.2,D13.1,D37.1,D49.0
+1453,1,pylorus,,,C16.4,C78.89,D00.2,D13.1,D37.1,D49.0
+1454,1,pyramid,,(brain),C71.7,C79.31,-,D33.1,D43.1,D49.6
+1455,1,pyriform fossa or sinus,,,C12,C79.89,D00.08,D10.7,D37.05,D49.0
+1456,1,radius,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+1457,1,Rathke's pouch,,,C75.1,C79.89,D09.3,D35.2,D44.3,D49.7
+1458,1,rectosigmoid,,(junction),C19,C78.5,D01.1,D12.7,D37.5,D49.0
+1459,2,overlapping lesion with anus or rectum,,,C21.8,-,-,-,-,-
+1460,1,rectouterine pouch,,,C48.1,C78.6,-,D20.1,D48.4,D49.0
+1461,1,rectovaginal septum or wall,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1462,1,rectovesical septum,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1463,1,rectum,,(ampulla),C20,C78.5,D01.2,D12.8,D37.5,D49.0
+1464,2,and colon,,,C19,C78.5,D01.1,D12.7,D37.5,D49.0
+1465,2,overlapping lesion with anus or rectosigmoid junction,,,C21.8,-,-,-,-,-
+1466,1,renal,,,C64.-,C79.0-,D09.19,D30.0-,D41.0-,D49.51-
+1467,2,calyx,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+1468,2,hilus,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+1469,2,parenchyma,,,C64.-,C79.0-,D09.19,D30.0-,D41.0-,D49.51-
+1470,2,pelvis,,,C65.-,C79.0-,D09.19,D30.1-,D41.1-,D49.51-
+1471,1,respiratory,,,,,,,,
+1472,2,organs or system NEC,,,C39.9,C78.30,D02.4,D14.4,D38.6,D49.1
+1473,2,tract NEC,,,C39.9,C78.30,D02.4,D14.4,D38.5,D49.1
+1474,3,upper,,,C39.0,C78.30,D02.4,D14.4,D38.5,D49.1
+1475,1,retina,,,C69.2-,C79.49,D09.2-,D31.2-,D48.7,D49.81
+1476,1,retrobulbar,,,C69.6-,C79.49,-,D31.6-,D48.7,D49.89
+1477,1,retrocecal,,,C48.0,C78.6,-,D20.0,D48.3,D49.0
+1478,1,retromolar,,(area) (triangle) (trigone),C06.2,C79.89,D00.00,D10.39,D37.09,D49.0
+1479,1,retro-orbital,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1480,1,retroperitoneal,,(space) (tissue),C48.0,C78.6,-,D20.0,D48.3,D49.0
+1481,1,retroperitoneum,,,C48.0,C78.6,-,D20.0,D48.3,D49.0
+1482,1,retropharyngeal,,,C14.0,C79.89,D00.08,D10.9,D37.05,D49.0
+1483,1,retrovesical,,(septum),C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1484,1,rhinencephalon,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+1485,1,rib,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+1486,1,Rosenmuller's fossa,,,C11.2,C79.89,D00.08,D10.6,D37.05,D49.0
+1487,1,round ligament,,,C57.2,C79.82,-,D28.2,D39.8,D49.59
+1488,1,"sacrococcyx, sacrococcygeal",,,C41.4,C79.51,,D16.8,D48.0,D49.2
+1489,2,region,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1490,1,sacrouterine ligament,,,C57.3,C79.82,-,D28.2,D39.8,D49.59
+1491,1,"sacrum, sacral",,(vertebra),C41.4,C79.51,-,D16.8,D48.0,D49.2
+1492,1,salivary gland or duct,,(major),C08.9,C79.89,D00.00,D11.9,D37.039,D49.0
+1493,2,minor NEC,,,C06.9,C79.89,D00.00,D10.39,D37.04,D49.0
+1494,2,overlapping lesion,,,C08.9,-,-,-,-,-
+1495,2,parotid,,,C07,C79.89,D00.00,D11.0,D37.030,D49.0
+1496,2,pluriglandular,,,C08.9,C79.89,D00.00,D11.9,D37.039,D49.0
+1497,2,sublingual,,,C08.1,C79.89,D00.00,D11.7,D37.031,D49.0
+1498,2,submandibular,,,C08.0,C79.89,D00.00,D11.7,D37.032,D49.0
+1499,2,submaxillary,,,C08.0,C79.89,D00.00,D11.7,D37.032,D49.0
+1500,1,salpinx,,(uterine),C57.0-,C79.82,D07.39,D28.2,D39.8,D49.59
+1501,1,Santorini's duct,,,C25.3,C78.89,D01.7,D13.6,D37.8,D49.0
+1502,1,scalp,,,C44.40,C79.2,D04.4,D23.4,D48.5,D49.2
+1503,2,basal cell carcinoma,,,C44.41,-,-,-,-,-
+1504,2,specified type NEC,,,C44.49,-,-,-,-,-
+1505,2,squamous cell carcinoma,,,C44.42,-,-,-,-,-
+1506,1,scapula,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+1507,1,scapular region,,,C76.1,C79.89,D09.8,D36.7,D48.7,D49.89
+1508,1,scar NEC,,,C44.90,C79.2,D04.9,D23.9,D48.5,D49.2
+1509,1,sciatic nerve,,,C47.2-,C79.89,-,D36.13,D48.2,D49.2
+1510,1,sclera,,,C69.4-,C79.49,D09.2-,D31.4-,D48.7,D49.89
+1511,1,scrotum,,(skin),C63.2,C79.82,D07.61,D29.4,D40.8,D49.59
+1512,1,sebaceous gland,"Neoplasm, skin",,,,,,,
+1513,1,sella turcica,,,C75.1,C79.89,D09.3,D35.2,D44.3,D49.7
+1514,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1515,1,semilunar cartilage,,(knee),C40.2-,C79.51,-,D16.2-,D48.0,D49.2
+1516,1,seminal vesicle,,,C63.7,C79.82,D07.69,D29.8,D40.8,D49.59
+1517,1,septum,,,,,,,,
+1518,2,nasal,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1519,3,posterior margin,,,C11.3,C79.89,D00.08,D10.6,D37.05,D49.0
+1520,2,rectovaginal,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1521,2,rectovesical,,,C76.3,C79.89,D09.8,D36.7,D48.7,D49.89
+1522,2,urethrovaginal,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+1523,2,vesicovaginal,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+1524,1,shoulder NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+1525,1,sigmoid flexure,,(lower) (upper),C18.7,C78.5,D01.0,D12.5,D37.4,D49.0
+1526,1,sinus,,(accessory),C31.9,C78.39,D02.3,D14.0,D38.5,D49.1
+1527,2,bone,,(any),C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1528,2,ethmoidal,,,C31.1,C78.39,D02.3,D14.0,D38.5,D49.1
+1529,2,frontal,,,C31.2,C78.39,D02.3,D14.0,D38.5,D49.1
+1530,2,maxillary,,,C31.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1531,2,"nasal, paranasal NEC",,,C31.9,C78.39,D02.3,D14.0,D38.5,D49.1
+1532,2,overlapping lesion,,,C31.8,-,-,-,-,-
+1533,2,pyriform,,,C12,C79.89,D00.08,D10.7,D37.05,D49.0
+1534,2,sphenoid,,,C31.3,C78.39,D02.3,D14.0,D38.5,D49.1
+1535,1,"skeleton, skeletal NEC",,,C41.9,C79.51,-,D16.9-,D48.0,D49.2
+1536,1,Skene's gland,,,C68.1,C79.19,D09.19,D30.8,D41.8,D49.59
+1537,1,skin NOS,,,C44.90,C79.2,D04.9,D23.9,D48.5,D49.2
+1538,2,abdominal wall,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1539,3,basal cell carcinoma,,,C44.519,-,-,-,-,-
+1540,3,specified type NEC,,,C44.599,-,-,-,-,-
+1541,3,squamous cell carcinoma,,,C44.529,-,-,-,-,-
+1542,2,ala nasi,,,C44.301,C79.2,D04.39,D23.39,D48.5,D49.2
+1543,2,ankle,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1544,2,antecubital space,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1545,2,anus,,,C44.500,C79.2,D04.5,D23.5,D48.5,D49.2
+1546,3,basal cell carcinoma,,,C44.510,-,-,-,-,-
+1547,3,specified type NEC,,,C44.590,-,-,-,-,-
+1548,3,squamous cell carcinoma,,,C44.520,-,-,-,-,-
+1549,2,arm,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1550,2,auditory canal,,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1551,2,auricle,,(ear),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1552,2,auricular canal,,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1553,2,"axilla, axillary fold",,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1554,2,back,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1555,2,basal cell carcinoma,,,C44.91,,,,,
+1556,2,breast,,,C44.501,C79.2,D04.5,D23.5,D48.5,D49.2
+1557,3,basal cell carcinoma,,,C44.511,-,-,-,-,-
+1558,3,specified type NEC,,,C44.591,-,-,-,-,-
+1559,3,squamous cell carcinoma,,,C44.521,-,-,-,-,-
+1560,2,brow,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1561,2,buttock,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1562,2,calf,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1563,2,canthus,,(eye) (inner) (outer),C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+1564,3,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+1565,3,sebaceous cell,,,C44.13-,-,-,-,-,-
+1566,3,specified type NEC,,,C44.19-,-,-,-,-,-
+1567,3,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+1568,2,cervical region,,,C44.40,C79.2,D04.4,D23.4,D48.5,D49.2
+1569,2,cheek,,(external),C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1570,2,chest,,(wall),C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1571,2,chin,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1572,2,clavicular area,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1573,2,clitoris,,,C51.2,C79.82,D07.1,D28.0,D39.8,D49.59
+1574,2,columnella,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1575,2,concha,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1576,2,ear,,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1577,3,basal cell carcinoma,,,C44.21-,-,-,-,-,-
+1578,3,specified type NEC,,,C44.29-,-,-,-,-,-
+1579,3,squamous cell carcinoma,,,C44.22-,-,-,-,-,-
+1580,2,elbow,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1581,2,eyebrow,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1582,2,eyelid,,,C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+1583,3,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+1584,3,sebaceous cell,,,C44.13-,-,-,-,-,-
+1585,3,specified type NEC,,,C44.19-,-,-,-,-,-
+1586,3,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+1587,2,face NOS,,,C44.300,C79.2,D04.30,D23.30,D48.5,D49.2
+1588,3,basal cell carcinoma,,,C44.310,-,-,-,-,-
+1589,3,specified type NEC,,,C44.390,-,-,-,-,-
+1590,3,squamous cell carcinoma,,,C44.320,-,-,-,-,-
+1591,2,female genital organs,,(external),C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1592,3,clitoris,,,C51.2,C79.82,D07.1,D28.0,D39.8,D49.59
+1593,3,labium NEC,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1594,4,majus,,,C51.0,C79.82,D07.1,D28.0,D39.8,D49.59
+1595,4,minus,,,C51.1,C79.82,D07.1,D28.0,D39.8,D49.59
+1596,3,pudendum,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1597,3,vulva,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1598,2,finger,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1599,2,flank,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1600,2,foot,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1601,2,forearm,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1602,2,forehead,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1603,2,glabella,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1604,2,gluteal region,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1605,2,groin,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1606,2,hand,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1607,2,head NEC,,,C44.40,C79.2,D04.4,D23.4,D48.5,D49.2
+1608,2,heel,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1609,2,helix,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1610,2,hip,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1611,2,infraclavicular region,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1612,2,inguinal region,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1613,2,jaw,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1614,2,Kaposi's sarcoma,"Kaposi's, sarcoma, skin",,,,,,,
+1615,2,knee,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1616,2,labia,,,,,,,,
+1617,3,majora,,,C51.0,C79.82,D07.1,D28.0,D39.8,D49.59
+1618,3,minora,,,C51.1,C79.82,D07.1,D28.0,D39.8,D49.59
+1619,2,leg,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1620,2,lid,,(lower) (upper),C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+1621,3,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+1622,3,sebaceous cell,,,C44.13-,-,-,-,-,-
+1623,3,specified type NEC,,,C44.19-,-,-,-,-,-
+1624,3,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+1625,2,limb NEC,,,C44.90,C79.2,D04.9,D23.9,D48.5,D49.2
+1626,3,basal cell carcinoma,,,C44.91,,,,,
+1627,3,lower,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1628,4,basal cell carcinoma,,,C44.71-,-,-,-,-,-
+1629,4,specified type NEC,,,C44.79-,-,-,-,-,-
+1630,4,squamous cell carcinoma,,,C44.72-,-,-,-,-,-
+1631,3,upper,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1632,4,basal cell carcinoma,,,C44.61-,-,-,-,-,-
+1633,4,specified type NEC,,,C44.69-,-,-,-,-,-
+1634,4,squamous cell carcinoma,,,C44.62-,-,-,-,-,-
+1635,2,lip,,(lower) (upper),C44.00,C79.2,D04.0,D23.0,D48.5,D49.2
+1636,3,basal cell carcinoma,,,C44.01,-,-,-,-,-
+1637,3,specified type NEC,,,C44.09,-,-,-,-,-
+1638,3,squamous cell carcinoma,,,C44.02,-,-,-,-,-
+1639,2,male genital organs,,,C63.9,C79.82,D07.60,D29.9,D40.8,D49.59
+1640,3,penis,,,C60.9,C79.82,D07.4,D29.0,D40.8,D49.59
+1641,3,prepuce,,,C60.0,C79.82,D07.4,D29.0,D40.8,D49.59
+1642,3,scrotum,,,C63.2,C79.82,D07.61,D29.4,D40.8,D49.59
+1643,2,mastectomy site,,(skin),C44.501,C79.2,-,-,-,-
+1644,3,specified as breast tissue,,,C50.8-,C79.81,-,-,-,-
+1645,2,"meatus, acoustic",,(external),C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1646,2,melanotic,Melanoma,,,,,,,
+1647,2,Merkel cell,"Carcinoma, Merkel cell",,,,,,,
+1648,2,nates,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1649,2,neck,,,C44.40,C79.2,D04.4,D23.4,D48.5,D49.2
+1650,3,basal cell carcinoma,,,C44.41,-,-,-,-,-
+1651,3,specified type NEC,,,C44.49,-,-,-,-,-
+1652,3,squamous cell carcinoma,,,C44.42,-,-,-,-,-
+1653,2,nevus,"Nevus, skin",,,,,,,
+1654,2,nose,,(external),C44.301,C79.2,D04.39,D23.39,D48.5,D49.2
+1655,2,overlapping lesion,,,C44.80,-,-,-,-,-
+1656,3,basal cell carcinoma,,,C44.81,-,-,-,-,-
+1657,3,specified type NEC,,,C44.89,-,-,-,-,-
+1658,3,squamous cell carcinoma,,,C44.82,-,-,-,-,-
+1659,2,palm,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1660,2,palpebra,,,C44.10-,C79.2,D04.1-,D23.1-,D48.5,D49.2
+1661,3,basal cell carcinoma,,,C44.11-,-,-,-,-,-
+1662,3,sebaceous cell,,,C44.13-,-,-,-,-,-
+1663,3,specified type NEC,,,C44.19-,-,-,-,-,-
+1664,3,squamous cell carcinoma,,,C44.12-,-,-,-,-,-
+1665,2,penis NEC,,,C60.9,C79.82,D07.4,D29.0,D40.8,D49.59
+1666,2,perianal,,,C44.500,C79.2,D04.5,D23.5,D48.5,D49.2
+1667,2,perineum,,,C44.500,C79.2,D04.5,D23.5,D48.5,D49.2
+1668,2,pinna,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1669,2,plantar,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1670,2,popliteal fossa or space,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1671,2,prepuce,,,C60.0,C79.82,D07.4,D29.0,D40.8,D49.59
+1672,2,pubes,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1673,2,sacrococcygeal region,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1674,2,scalp,,,C44.40,C79.2,D04.4,D23.4,D48.5,D49.2
+1675,3,basal cell carcinoma,,,C44.41,-,-,-,-,-
+1676,3,specified type NEC,,,C44.49,-,-,-,-,-
+1677,3,squamous cell carcinoma,,,C44.42,-,-,-,-,-
+1678,2,scapular region,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1679,2,scrotum,,,C63.2,C79.82,D07.61,D29.4,D40.8,D49.59
+1680,2,shoulder,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1681,2,sole,,(foot),C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1682,2,specified sites NEC,,,C44.80,C79.2,D04.8,D23.9,D48.5,D49.2
+1683,3,basal cell carcinoma,,,C44.81,-,-,-,-,-
+1684,3,specified type NEC,,,C44.89,-,-,-,-,-
+1685,3,squamous cell carcinoma,,,C44.82,-,-,-,-,-
+1686,2,specified type NEC,,,C44.99,-,-,-,-,-
+1687,2,squamous cell carcinoma,,,C44.92,-,-,-,-,-
+1688,2,submammary fold,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1689,2,supraclavicular region,,,C44.40,C79.2,D04.4,D23.4,D48.5,D49.2
+1690,2,temple,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1691,2,thigh,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1692,2,thoracic wall,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1693,2,thumb,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1694,2,toe,,,C44.70-,C79.2,D04.7-,D23.7-,D48.5,D49.2
+1695,2,tragus,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1696,2,trunk,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1697,3,basal cell carcinoma,,,C44.519,-,-,-,-,-
+1698,3,specified type NEC,,,C44.599,-,-,-,-,-
+1699,3,squamous cell carcinoma,,,C44.529,-,-,-,-,-
+1700,2,umbilicus,,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1701,2,vulva,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1702,3,overlapping lesion,,,C51.8,-,-,-,-,-
+1703,2,wrist,,,C44.60-,C79.2,D04.6-,D23.6-,D48.5,D49.2
+1704,1,skull,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1705,1,soft parts or tissues,"Neoplasm, connective tissue",,,,,,,
+1706,1,specified site NEC,,,C76.8,C79.89,D09.8,D36.7,D48.7,D49.89
+1707,1,spermatic cord,,,C63.1-,C79.82,D07.69,D29.8,D40.8,D49.59
+1708,1,sphenoid,,,C31.3,C78.39,D02.3,D14.0,D38.5,D49.1
+1709,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1710,2,sinus,,,C31.3,C78.39,D02.3,D14.0,D38.5,D49.1
+1711,1,sphincter,,,,,,,,
+1712,2,anal,,,C21.1,C78.5,D01.3,D12.9,D37.8,D49.0
+1713,2,of Oddi,,,C24.0,C78.89,D01.5,D13.5,D37.6,D49.0
+1714,1,"spine, spinal",,(column),C41.2,C79.51,-,D16.6,D48.0,D49.2
+1715,2,bulb,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+1716,2,coccyx,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+1717,2,cord,,(cervical) (lumbar) (sacral) (thoracic),C72.0,C79.49,-,D33.4,D43.4,D49.7
+1718,2,dura mater,,,C70.1,C79.49,-,D32.1,D42.1,D49.7
+1719,2,lumbosacral,,,C41.2,C79.51,-,D16.6,D48.0,D49.2
+1720,2,marrow NEC,,,C96.9,C79.52,-,-,D47.9,D49.89
+1721,2,membrane,,,C70.1,C79.49,-,D32.1,D42.1,D49.7
+1722,2,meninges,,,C70.1,C79.49,-,D32.1,D42.1,D49.7
+1723,2,nerve,,(root),C47.9,C79.89,-,D36.10,D48.2,D49.2
+1724,2,pia mater,,,C70.1,C79.49,-,D32.1,D42.1,D49.7
+1725,2,root,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1726,2,sacrum,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+1727,1,"spleen, splenic NEC",,,C26.1,C78.89,D01.7,D13.99,D37.8,D49.0
+1728,2,flexure,,(colon),C18.5,C78.5,D01.0,D12.3,D37.4,D49.0
+1729,1,"stem, brain",,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+1730,1,Stensen's duct,,,C07,C79.89,D00.00,D11.0,D37.030,D49.0
+1731,1,sternum,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+1732,1,stomach,,,C16.9,C78.89,D00.2,D13.1,D37.1,D49.0
+1733,2,antrum,,(pyloric),C16.3,C78.89,D00.2,D13.1,D37.1,D49.0
+1734,2,body,,,C16.2,C78.89,D00.2,D13.1,D37.1,D49.0
+1735,2,cardia,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+1736,2,cardiac orifice,,,C16.0,C78.89,D00.2,D13.1,D37.1,D49.0
+1737,2,corpus,,,C16.2,C78.89,D00.2,D13.1,D37.1,D49.0
+1738,2,fundus,,,C16.1,C78.89,D00.2,D13.1,D37.1,D49.0
+1739,2,greater curvature NEC,,,C16.6,C78.89,D00.2,D13.1,D37.1,D49.0
+1740,2,lesser curvature NEC,,,C16.5,C78.89,D00.2,D13.1,D37.1,D49.0
+1741,2,overlapping lesion,,,C16.8,-,-,-,-,-
+1742,2,prepylorus,,,C16.4,C78.89,D00.2,D13.1,D37.1,D49.0
+1743,2,pylorus,,,C16.4,C78.89,D00.2,D13.1,D37.1,D49.0
+1744,2,wall NEC,,,C16.9,C78.89,D00.2,D13.1,D37.1,D49.0
+1745,3,anterior NEC,,,C16.8,C78.89,D00.2,D13.1,D37.1,D49.0
+1746,3,posterior NEC,,,C16.8,C78.89,D00.2,D13.1,D37.1,D49.0
+1747,1,"stroma, endometrial",,,C54.1,C79.82,D07.0,D26.1,D39.0,D49.59
+1748,1,"stump, cervical",,,C53.8,C79.82,D06.7,D26.0,D39.0,D49.59
+1749,1,subcutaneous,"Neoplasm, connective tissue",(nodule) (tissue),,,,,,
+1750,1,subdural,,,C70.9,C79.32,-,D32.9,D42.9,D49.7
+1751,1,"subglottis, subglottic",,,C32.2,C78.39,D02.0,D14.1,D38.0,D49.1
+1752,1,sublingual,,,C04.9,C79.89,D00.06,D10.2,D37.09,D49.0
+1753,2,gland or duct,,,C08.1,C79.89,D00.00,D11.7,D37.031,D49.0
+1754,1,submandibular gland,,,C08.0,C79.89,D00.00,D11.7,D37.032,D49.0
+1755,1,submaxillary gland or duct,,,C08.0,C79.89,D00.00,D11.7,D37.032,D49.0
+1756,1,submental,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1757,1,subpleural,,,C34.9-,C78.0-,D02.2-,D14.3-,D38.1,D49.1
+1758,1,substernal,,,C38.1,C78.1,-,D15.2,D38.3,D49.89
+1759,1,"sudoriferous, sudoriparous gland, site unspecified",,,C44.90,C79.2,D04.9,D23.9,D48.5,D49.2
+1760,2,specified site,"Neoplasm, skin",,,,,,,
+1761,1,supraclavicular region,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1762,1,supraglottis,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+1763,1,suprarenal,,,C74.9-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+1764,2,capsule,,,C74.9-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+1765,2,cortex,,,C74.0-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+1766,2,gland,,,C74.9-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+1767,2,medulla,,,C74.1-,C79.7-,D09.3,D35.0-,D44.1-,D49.7
+1768,1,suprasellar,,(region),C71.9,C79.31,-,D33.2,D43.2,D49.6
+1769,1,supratentorial,,(brain),C71.0,C79.31,-,D33.0,D43.0,D49.6
+1770,1,sweat gland,,(apocrine) (eccrine),C44.90,C79.2,D04.9,D23.9,D48.5,D49.2
+1771,2,specified site,"Neoplasm, skin",,,,,,,
+1772,1,sympathetic nerve or nervous system NEC,,,C47.9,C79.89,-,D36.10,D48.2,D49.2
+1773,1,symphysis pubis,,,C41.4,C79.51,-,D16.8,D48.0,D49.2
+1774,1,synovial membrane,"Neoplasm, connective tissue",,,,,,,
+1775,1,"tapetum, brain",,,C71.8,C79.31,-,D33.2,D43.2,D49.6
+1776,1,tarsus,,(any bone),C40.3-,C79.51,-,D16.3-,-,-
+1777,1,temple,,(skin),C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1778,1,temporal,,,,,,,,
+1779,2,bone,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1780,2,lobe or pole,,,C71.2,C79.31,-,D33.0,D43.0,D49.6
+1781,2,region,,,C76.0,C79.89,D09.8,D36.7,D48.7,D49.89
+1782,3,skin,,,C44.309,C79.2,D04.39,D23.39,D48.5,D49.2
+1783,1,tendon,"Neoplasm, connective tissue",(sheath),,,,,,
+1784,1,tentorium,,(cerebelli),C70.0,C79.32,-,D32.0,D42.0,D49.7
+1785,1,"testis, testes",,,C62.9-,C79.82,D07.69,D29.2-,D40.1-,D49.59
+1786,2,descended,,,C62.1-,C79.82,D07.69,D29.2-,D40.1-,D49.59
+1787,2,ectopic,,,C62.0-,C79.82,D07.69,D29.2-,D40.1-,D49.59
+1788,2,retained,,,C62.0-,C79.82,D07.69,D29.2-,D40.1-,D49.59
+1789,2,scrotal,,,C62.1-,C79.82,D07.69,D29.2-,D40.1-,D49.59
+1790,2,undescended,,,C62.0-,C79.82,D07.69,D29.2-,D40.1-,D49.59
+1791,2,unspecified whether descended or undescended,,,C62.9-,C79.82,D07.69,D29.2-,D40.1-,D49.59
+1792,1,thalamus,,,C71.0,C79.31,-,D33.0,D43.0,D49.6
+1793,1,thigh NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+1794,1,"thorax, thoracic",,(cavity) (organs NEC),C76.1,C79.89,D09.8,D36.7,D48.7,D49.89
+1795,2,duct,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+1796,2,wall NEC,,,C76.1,C79.89,D09.8,D36.7,D48.7,D49.89
+1797,1,throat,,,C14.0,C79.89,D00.08,D10.9,D37.05,D49.0
+1798,1,thumb NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+1799,1,thymus,,(gland),C37,C79.89,D09.3,D15.0,D38.4,D49.89
+1800,1,thyroglossal duct,,,C73,C79.89,D09.3,D34,D44.0,D49.7
+1801,1,thyroid,,(gland),C73,C79.89,D09.3,D34,D44.0,D49.7
+1802,2,cartilage,,,C32.3,C78.39,D02.0,D14.1,D38.0,D49.1
+1803,1,tibia,,(any part),C40.2-,C79.51,-,D16.2-,-,-
+1804,1,toe NEC,,,C76.5-,C79.89,D04.7-,D36.7,D48.7,D49.89
+1805,1,tongue,,,C02.9,C79.89,D00.07,D10.1,D37.02,D49.0
+1806,2,anterior,,(two-thirds),C02.3,C79.89,D00.07,D10.1,D37.02,D49.0
+1807,3,dorsal surface,,,C02.0,C79.89,D00.07,D10.1,D37.02,D49.0
+1808,3,ventral surface,,,C02.2,C79.89,D00.07,D10.1,D37.02,D49.0
+1809,2,base,,(dorsal surface),C01,C79.89,D00.07,D10.1,D37.02,D49.0
+1810,2,border,,(lateral),C02.1,C79.89,D00.07,D10.1,D37.02,D49.0
+1811,2,dorsal surface NEC,,,C02.0,C79.89,D00.07,D10.1,D37.02,D49.0
+1812,2,fixed part NEC,,,C01,C79.89,D00.07,D10.1,D37.02,D49.0
+1813,2,foreamen cecum,,,C02.0,C79.89,D00.07,D10.1,D37.02,D49.0
+1814,2,frenulum linguae,,,C02.2,C79.89,D00.07,D10.1,D37.02,D49.0
+1815,2,junctional zone,,,C02.8,C79.89,D00.07,D10.1,D37.02,D49.0
+1816,2,margin,,(lateral),C02.1,C79.89,D00.07,D10.1,D37.02,D49.0
+1817,2,midline NEC,,,C02.0,C79.89,D00.07,D10.1,D37.02,D49.0
+1818,2,mobile part NEC,,,C02.3,C79.89,D00.07,D10.1,D37.02,D49.0
+1819,2,overlapping lesion,,,C02.8,-,-,-,-,-
+1820,2,posterior,,(third),C01,C79.89,D00.07,D10.1,D37.02,D49.0
+1821,2,root,,,C01,C79.89,D00.07,D10.1,D37.02,D49.0
+1822,2,surface,,(dorsal),C02.0,C79.89,D00.07,D10.1,D37.02,D49.0
+1823,3,base,,,C01,C79.89,D00.07,D10.1,D37.02,D49.0
+1824,3,ventral,,,C02.2,C79.89,D00.07,D10.1,D37.02,D49.0
+1825,2,tip,,,C02.1,C79.89,D00.07,D10.1,D37.02,D49.0
+1826,2,tonsil,,,C02.4,C79.89,D00.07,D10.1,D37.02,D49.0
+1827,1,tonsil,,,C09.9,C79.89,D00.08,D10.4,D37.05,D49.0
+1828,2,"fauces, faucial",,,C09.9,C79.89,D00.08,D10.4,D37.05,D49.0
+1829,2,lingual,,,C02.4,C79.89,D00.07,D10.1,D37.02,D49.0
+1830,2,overlapping sites,,,C09.8,-,-,-,-,-
+1831,2,palatine,,,C09.9,C79.89,D00.08,D10.4,D37.05,D49.0
+1832,2,pharyngeal,,,C11.1,C79.89,D00.08,D10.6,D37.05,D49.0
+1833,2,pillar,,(anterior) (posterior),C09.1,C79.89,D00.08,D10.5,D37.05,D49.0
+1834,1,tonsillar fossa,,,C09.0,C79.89,D00.08,D10.5,D37.05,D49.0
+1835,1,tooth socket NEC,,,C03.9,C79.89,D00.03,D10.39,D37.09,D49.0
+1836,1,trachea,,(cartilage) (mucosa),C33,C78.39,D02.1,D14.2,D38.1,D49.1
+1837,2,overlapping lesion with bronchus or lung,,,C34.8-,-,-,-,-,-
+1838,1,tracheobronchial,,,C34.8-,C78.39,D02.1,D14.2,D38.1,D49.1
+1839,2,overlapping lesion with lung,,,C34.8-,-,-,-,-,-
+1840,1,tragus,,,C44.20-,C79.2,D04.2-,D23.2-,D48.5,D49.2
+1841,1,trunk NEC,,,C76.8,C79.89,D04.5,D36.7,D48.7,D49.89
+1842,1,tubo-ovarian,,,C57.8,C79.82,D07.39,D28.7,D39.8,D49.59
+1843,1,tunica vaginalis,,,C63.7,C79.82,D07.69,D29.8,D40.8,D49.59
+1844,1,turbinate,,(bone),C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1845,2,nasal,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1846,1,tympanic cavity,,,C30.1,C78.39,D02.3,D14.0,D38.5,D49.1
+1847,1,ulna,,(any part),C40.0-,C79.51,-,D16.0-,-,-
+1848,1,"umbilicus, umbilical",,,C44.509,C79.2,D04.5,D23.5,D48.5,D49.2
+1849,1,"uncus, brain",,,C71.2,C79.31,-,D33.0,D43.0,D49.6
+1850,1,unknown site or unspecified,,,C80.1,C79.9,D09.9,D36.9,D48.9,D49.9
+1851,1,urachus,,,C67.7,C79.11,D09.0,D30.3,D41.4,D49.4
+1852,1,"ureter, ureteral",,,C66.-,C79.19,D09.19,D30.2-,D41.2-,D49.59
+1853,2,orifice,,(bladder),C67.6,C79.11,D09.0,D30.3,D41.4,D49.4
+1854,1,ureter-bladder,,(junction),C67.6,C79.11,D09.0,D30.3,D41.4,D49.4
+1855,1,"urethra, urethral",,(gland),C68.0,C79.19,D09.19,D30.4,D41.3,D49.59
+1856,2,"orifice, internal",,,C67.5,C79.11,D09.0,D30.3,D41.4,D49.4
+1857,1,urethrovaginal,,(septum),C57.9,C79.82,D07.30,D28.9,D39.8,D49.59
+1858,1,urinary organ or system,,,C68.9,C79.10,D09.10,D30.9,D41.9,D49.59
+1859,2,bladder,"Neoplasm, bladder",,,,,,,
+1860,2,overlapping lesion,,,C68.8,-,-,-,-,-
+1861,2,specified sites NEC,,,C68.8,C79.19,D09.19,D30.8,D41.8,D49.59
+1862,1,utero-ovarian,,,C57.8,C79.82,D07.39,D28.7,D39.8,D49.59
+1863,2,ligament,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+1864,1,uterosacral ligament,,,C57.3,C79.82,-,D28.2,D39.8,D49.59
+1865,1,"uterus, uteri, uterine",,,C55,C79.82,D07.0,D26.9,D39.0,D49.59
+1866,2,adnexa NEC,,,C57.4,C79.82,D07.39,D28.7,D39.8,D49.59
+1867,2,body,,,C54.9,C79.82,D07.0,D26.1,D39.0,D49.59
+1868,2,cervix,,,C53.9,C79.82,D06.9,D26.0,D39.0,D49.59
+1869,2,cornu,,,C54.9,C79.82,D07.0,D26.1,D39.0,D49.59
+1870,2,corpus,,,C54.9,C79.82,D07.0,D26.1,D39.0,D49.59
+1871,2,endocervix,,(canal) (gland),C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+1872,2,endometrium,,,C54.1,C79.82,D07.0,D26.1,D39.0,D49.59
+1873,2,exocervix,,,C53.1,C79.82,D06.1,D26.0,D39.0,D49.59
+1874,2,external os,,,C53.1,C79.82,D06.1,D26.0,D39.0,D49.59
+1875,2,fundus,,,C54.3,C79.82,D07.0,D26.1,D39.0,D49.59
+1876,2,internal os,,,C53.0,C79.82,D06.0,D26.0,D39.0,D49.59
+1877,2,isthmus,,,C54.0,C79.82,D07.0,D26.1,D39.0,D49.59
+1878,2,ligament,,,C57.3,C79.82,-,D28.2,D39.8,D49.59
+1879,3,broad,,,C57.1,C79.82,D07.39,D28.2,D39.8,D49.59
+1880,3,round,,,C57.2,C79.82,-,D28.2,D39.8,D49.59
+1881,2,lower segment,,,C54.0,C79.82,D07.0,D26.1,D39.0,D49.59
+1882,2,myometrium,,,C54.2,C79.82,D07.0,D26.1,D39.0,D49.59
+1883,2,overlapping sites,,,C54.8,-,-,-,-,-
+1884,2,squamocolumnar junction,,,C53.8,C79.82,D06.7,D26.0,D39.0,D49.59
+1885,2,tube,,,C57.0-,C79.82,D07.39,D28.2,D39.8,D49.59
+1886,1,"utricle, prostatic",,,C68.0,C79.19,D09.19,D30.4,D41.3,D49.59
+1887,1,uveal tract,,,C69.4-,C79.49,D09.2-,D31.4-,D48.7,D49.89
+1888,1,uvula,,,C05.2,C79.89,D00.04,D10.39,D37.09,D49.0
+1889,1,"vagina, vaginal",,(fornix) (vault) (wall),C52,C79.82,D07.2,D28.1,D39.8,D49.59
+1890,1,vaginovesical,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+1891,2,septum,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+1892,1,vallecula,,(epigiottis),C10.0,C79.89,D00.08,D10.5,D37.05,D49.0
+1893,1,vas deferens,,,C63.1-,C79.82,D07.69,D29.8,D40.8,D49.59
+1894,1,vascular,"Neoplasm, connective tissue",,,,,,,
+1895,1,Vater's ampulla,,,C24.1,C78.89,D01.5,D13.5,D37.6,D49.0
+1896,1,"vein, venous","Neoplasm, connective tissue",,,,,,,
+1897,1,vena cava,,(abdominal) (inferior),C49.4,C79.89,-,D21.4,D48.1,D49.2
+1898,2,superior,,,C49.3,C79.89,-,D21.3,D48.1,D49.2
+1899,1,ventricle,,(cerebral) (floor) (lateral) (third),C71.5,C79.31,-,D33.0,D43.0,D49.6
+1900,2,cardiac,,(left) (right),C38.0,C79.89,-,D15.1,D48.7,D49.89
+1901,2,fourth,,,C71.7,C79.31,-,D33.1,D43.1,D49.6
+1902,1,ventricular band of larynx,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+1903,1,ventriculus,"Neoplasm, stomach",,,,,,,
+1904,1,vermillion border,"Neoplasm, lip",,,,,,,
+1905,1,"vermis, cerebellum",,,C71.6,C79.31,-,D33.1,D43.1,D49.6
+1906,1,vertebra,,(column),C41.2,C79.51,-,D16.6,D48.0,D49.2
+1907,2,coccyx,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+1908,2,marrow NEC,,,C96.9,C79.52,-,-,D47.9,D49.89
+1909,2,sacrum,,,C41.4,C79.51,-,D16.8-,D48.0,D49.2
+1910,1,vesical,"Neoplasm, bladder",,,,,,,
+1911,1,"vesicle, seminal",,,C63.7,C79.82,D07.69,D29.8,D40.8,D49.59
+1912,1,vesicocervical tissue,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+1913,1,vesicorectal,,,C76.3,C79.82,D09.8,D36.7,D48.7,D49.89
+1914,1,vesicovaginal,,,C57.9,C79.82,D07.30,D28.9,D39.9,D49.59
+1915,2,septum,,,C57.9,C79.82,D07.30,D28.9,D39.8,D49.59
+1916,1,vessel,"Neoplasm, connective tissue",(blood),,,,,,
+1917,1,"vestibular gland, greater",,,C51.0,C79.82,D07.1,D28.0,D39.8,D49.59
+1918,1,vestibule,,,,,,,,
+1919,2,mouth,,,C06.1,C79.89,D00.00,D10.39,D37.09,D49.0
+1920,2,nose,,,C30.0,C78.39,D02.3,D14.0,D38.5,D49.1
+1921,1,Virchow's gland,,,C77.0,C77.0,-,D36.0,D48.7,D49.89
+1922,1,viscera NEC,,,C76.8,C79.89,D09.8,D36.7,D48.7,D49.89
+1923,1,vocal cords,,(true),C32.0,C78.39,D02.0,D14.1,D38.0,D49.1
+1924,2,false,,,C32.1,C78.39,D02.0,D14.1,D38.0,D49.1
+1925,1,vomer,,,C41.0,C79.51,-,D16.4-,D48.0,D49.2
+1926,1,vulva,,,C51.9,C79.82,D07.1,D28.0,D39.8,D49.59
+1927,1,vulvovaginal gland,,,C51.0,C79.82,D07.1,D28.0,D39.8,D49.59
+1928,1,Waldeyer's ring,,,C14.2,C79.89,D00.08,D10.9,D37.05,D49.0
+1929,1,Wharton's duct,,,C08.0,C79.89,D00.00,D11.7,D37.032,D49.0
+1930,1,white matter,,(central) (cerebral),C71.0,C79.31,-,D33.0,D43.0,D49.6
+1931,1,windpipe,,,C33,C78.39,D02.1,D14.2,D38.1,D49.1
+1932,1,Wirsung's duct,,,C25.3,C78.89,D01.7,D13.6,D37.8,D49.0
+1933,1,wolffian,,(body) (duct),,,,,,
+1934,2,female,,,C57.7,C79.82,D07.39,D28.7,D39.8,D49.59
+1935,2,male,,,C63.7,C79.82,D07.69,D29.8,D40.8,D49.59
+1936,1,womb,"Neoplasm, uterus",,,,,,,
+1937,1,wrist NEC,,,C76.4-,C79.89,D04.6-,D36.7,D48.7,D49.89
+1938,1,xiphoid process,,,C41.3,C79.51,-,D16.7,D48.0,D49.2
+1939,1,Zuckerkandl organ,,,C75.5,C79.89,-,D35.6,D44.7,D49.7
