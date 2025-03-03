@@ -2,6 +2,19 @@
 
 Goal: Parse ICD-10-CM XML files to flat CSV files for easy import into a SQL DB.
 
+# Files
+
+**Tabular** - core file with all of the codes
+
+**Index** - like a book index with term lookup alphabetically.  Lists the base code which then can be referenced in the tabular file
+
+**Neoplasms** - lookup of neoplasms by anatomical site with 6 code columns
+
+**Drug** - alphabetical list of drugs with 6 code columns
+
+**EIndex** - External cause of injuries index
+
+
 ## Source Files
 All of the source files were from the public available CDC website/FTP server.
 
