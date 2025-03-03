@@ -5,3 +5,5 @@ sandbox playground for playing around with Python.  I'm creating a folder for ea
 See README.md in each respective folder for more details.
 
 **ICD10CM** - International Classification of Diseases, Tenth Revision, Clinical Modification.  Parsing XML files to flat CSV files.  
+
+**Pandas** - playing around learning pandas library.  Just scratch files of little value.
