@@ -9,12 +9,19 @@ root = tree.getroot()
 # Open a CSV file to write
 csv_neoplasms = "output/ICD10CM_2025_neoplasms.csv"
 
+# RowID - maintain original position within the XML file
+# Level - how many indentations or sub-levels is it with 0 being the parent
+# Term - text describing the neoplasm
+# SeeAlso - text of the "see" XML tag if it exists for the term
+# NonEssModif - Non-essential modifier.  Text of the "nemod" XML tag if it exists for the term
+# (remaining fields) - col2 - col7 corresponding to their respective column header.  See the PDF file for desired output
+
 #---------- Codes
 with open(csv_neoplasms, mode="w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["RowID", "Level", "Term", "SeeAlso", "NonEssModif", "MalignantPrimary", "MalignantSecondary", "CaInSitu", "Benign", "UncertainBehavior", "UnspecifiedBehavior"])
 
-    # hard coded first row b/c it's outside of the terms collection
+    # first row hard coded b/c it's outside of the terms collection
     rowid = 1
     cterm = root.find(".//mainTerm/title").text
     level = 0
