@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 
+# https://www.weather.gov/documentation/services-web-api?ref=public_apis
 # API endpoints
 first_api_url = "https://api.weather.gov/points/36.0063,-86.7909"
 #first_api_url = "https://api.weather.gov/points/33.5508,-88.4865"
@@ -42,7 +43,24 @@ cursor.execute('''
         forecast TEXT,
         forecast_hourly TEXT,
         forecast_grid_data TEXT
-
+    )
+''')
+# Create "forecasts" table with snake_case columns
+cursor.execute('''
+    CREATE TABLE IF NOT EXISTS forecasts (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        call_id INTEGER,
+        number INTEGER,
+        name TEXT,
+        start_time TEXT,
+        end_time TEXT,
+        is_daytime BOOLEAN,
+        temperature INTEGER,
+        wind_speed TEXT,
+        icon TEXT,
+        short_forecast TEXT,
+        detailed_forecast TEXT,
+        FOREIGN KEY (call_id) REFERENCES calls(id)
     )
 ''')
 
@@ -84,25 +102,6 @@ forecasts_df.rename(columns={
 
 # Add foreign key column to associate with "calls" table
 forecasts_df["call_id"] = call_id
-
-# Create "forecasts" table with snake_case columns
-cursor.execute('''
-    CREATE TABLE IF NOT EXISTS forecasts (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        call_id INTEGER,
-        number INTEGER,
-        name TEXT,
-        start_time TEXT,
-        end_time TEXT,
-        is_daytime BOOLEAN,
-        temperature INTEGER,
-        wind_speed TEXT,
-        icon TEXT,
-        short_forecast TEXT,
-        detailed_forecast TEXT,
-        FOREIGN KEY (call_id) REFERENCES calls(id)
-    )
-''')
 
 # Insert forecast data
 forecasts_df.to_sql('forecasts', conn, if_exists='append', index=False)
